@@ -6,6 +6,9 @@ excerpt: Heralds bring alive the pageantry of the medieval era
 Heralds in the Middle Ages were experts in chivalry, tournaments, coats-of-arms and the technicalities of war. Heralds in the Society enjoy communicating tournament combat, court ceremony, and the specifics of historical names and coats-of-arms. Some heralds specialise and build expertise, while others thrive being generalists.
 
 Heralds bring pageantry to the Society: we help make a modern experience turn into a near-medieval one. We do this in several ways.
+test
+
+
 
 # Learn about heraldry
 
