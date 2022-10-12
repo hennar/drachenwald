@@ -15,7 +15,7 @@ Some awards are recognised across the Society, and are defined in the [SCA's fou
 > The Crown may present Awards of Arms, the titles of Court Baron and Court Baroness, and
 Grants of Arms in accordance with the laws and customs of the kingdom.
 
-They select candidates to join the Society-wide bestowed peerages, which each confer a Patent of Arms: Order of Chivalry, Order of the Laurel, Order of the Pelican, and Mastery of Defense.
+They select candidates to join the Society-wide bestowed peerages, which each confer a Patent of Arms: Order of Chivalry, Order of the Laurel, Order of the Pelican, and Mastery of Defense. 
 
 And they recognise those who sit the thrones as consort with the Order of the Rose, another Society-wide order. 
 
