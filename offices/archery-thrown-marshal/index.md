@@ -12,7 +12,7 @@ __Too long; didn't read:__ Marshal's handbooks, report forms, links to equipment
 
 # Drachenwald Company of Archers
 
-The Company is designed to promote archery within the Kingdom of Drachenwald. The company run KIngdom wide competitions and track the scores of archers all over the Kingdom so that they can be recognised as their skills improve. It has been a pleasant surprise to many an archer to read in announcements or hear in Court that they have achieved a new rank with the Company of Archers!
+The Company is designed to promote archery within the Kingdom of Drachenwald. The company run KIngdom wide competitions and track the scores of archers all over the Kingdom so that they can be recognised as their skills improve. It has been a pleasant surprise to many an archer to read in announcements or hear in Court that they have achieved a new rank with the Company of Archers! 
 
 They are also responsible for the education and training of archers, and for continuing historical research into archery methods, equipment and techinologies.
 
