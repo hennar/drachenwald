@@ -2,8 +2,6 @@
 title: Order of Chivalry
 ---
 
-LIA WOZ HERE 
-
 The 'bestowed peerages' refer to those peerages which come from the hand of the king and queen. 
 
 The Order of Chivalry are a Society-wide order, which recognises excellence in the arts of armoured combat. 
