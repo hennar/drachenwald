@@ -48,7 +48,6 @@ if __name__ == '__main__':
               result = sheet.values().get(spreadsheetId=SAMPLE_SPREADSHEET_ID,
                                       range=SAMPLE_RANGE_NAME).execute()
               values = result.get('values', [])
-              print(values)
               if values:
                   max_col = len(values[0])
                   #all rows need to be the same length, Google Sheets API doesn't return cells without values
@@ -100,7 +99,8 @@ if __name__ == '__main__':
                   json.dump(data, f, ensure_ascii=False, indent=4)    
         except HttpError as err:
             print(err)
-
+		except Exception as e:
+			print(e)
 
 
 
