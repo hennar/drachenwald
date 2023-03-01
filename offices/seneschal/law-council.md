@@ -42,6 +42,7 @@ The current members of the Law Council are:
 * Anna Syveken
 * Anna von Urwald
 * Aodh Ó Siadhail
+* Birittha Wf
 * Dubhghall mac Ébhearáird
 * Duncan Kerr
 * Ellisa von Styra
@@ -49,7 +50,6 @@ The current members of the Law Council are:
 * Kareina Talventytär
 * Mærith aff Weselax
 * Memorantia van de Linde
-* Pietari Uv
 * William of Richwood
 
 # Current Proposals
