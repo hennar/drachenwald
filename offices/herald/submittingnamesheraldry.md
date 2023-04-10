@@ -77,15 +77,15 @@ Bank's Address: 20 Badminton Road, Downend, Bristol, BS16 6BN
 Bank: HSBC  
 
 # Submission forms
-For a name submission, submit a single copy of the name form (for branches or for individuals, depending on who is submitting) is filled.
+For all types of name submissions, submit a single copy of the name form.
 
-For an armorial submission, submit two copies of either device or branch form; one with a line drawing (like in a colouring book) and one with a coloured picture.
+For an armorial submission (device or badge), submit a single copy with a coloured picture.
 
-The Drachenwald submission forms are PDF files that you can fill out digitally, or print on paper to complete by hand. Edelweiss herald accepts email and paper submissions.
+The Drachenwald submission forms are PDF files that you can fill out digitally. Or, they can be printed out on paper to complete by hand. The Edelweiss herald accepts submissions sent via email, or on paper but email is preferred.
 
-E-mail edelweiss@drachenwald.sca.org to send your digital files or to ask for a postal address.
+Send your digital files to: edelweiss@drachenwald.sca.org or ask for a postal address.
 
-The current version of the submission forms is Laurel v. 3.0; Drachenwald v1.1 (Laurel Approved 15 Apr 2014). Please do not use forms dated any earlier, as they are no longer complete.
+The current version of the submission forms are Laurel v. 4.0; Drachenwald v.1.0 (Laurel Approved 12 Jan 2023). Version 3.0 can be used through 2023. Please do not use forms dated any earlier, as they are no longer accepted.
 
 * [Name form (for branches)]({{ site.baseurl }}{% link offices/herald/files/name-branches.pdf %})
 * [Name form (for individuals)]({{ site.baseurl }}{% link offices/herald/files/name-individuals.pdf %})
