@@ -80,7 +80,7 @@ footer:
       url: "https://facebook.com/kingdomofdrachenwald"
     - label: "Mailing list"
       icon: "fas fa-fw fa-envelope"
-      url: "http://lists.drachenwald.sca.org/mailman/listinfo/dw-l"
+      url: "https://drachenwald.sca.org/posts/news/2022/06/24/mailinglists/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:

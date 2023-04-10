@@ -38,7 +38,7 @@ if (not os.path.isdir(thumbDir)):
 if (not os.path.isdir(dlDir)):
     os.mkdir(dlDir)
 
-print("itterating")
+
 for rssUrl in rssUrls:
     try:
         #NewsFeed = feedparser.parse(rssUrl)
@@ -55,7 +55,7 @@ for rssUrl in rssUrls:
             if(r.status_code==200):
                 soup = BeautifulSoup(r.text, features="html.parser")
                 summary = soup.get_text()
-                print(summary)
+
         else:
             feedResults = {}
             for entry in NewsFeed.entries:
@@ -69,7 +69,6 @@ for rssUrl in rssUrls:
                     title=title[0]
 
                 if (rssUrl["type"] == "youtube"):
-                    #pprint.pprint(entry)
                     movielink=entry["link"]
                     summaryLtd = """<div class ="responsive-video-container" >  <iframe src = "%s" frameborder = "0" allowfullscreen = "" > </iframe > </div>""" % (movielink.replace("watch?v=","embed/"))
                 else:
@@ -91,12 +90,11 @@ for rssUrl in rssUrls:
                     images = []
                     for img in soup.findAll('img'):
                         images.append(img.get('src'))
-                    #print(summary)
+
                     summaryLtd=summary
                     if (len(summaryLtd) >= 250):
                         summaryLtd = summary[0:summary.rfind(' ', 0, 250)]
 
-                    #print(summaryLtd)
                     link = entry['link']
                     published = entry['published_parsed']
 
@@ -175,10 +173,7 @@ with io.open('thisis/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
     json.dump(entries, outfile, ensure_ascii=False)
 
 
-#pp.pprint(srtd[0:100])
 
-#for i in srtd[0:20]:
-#    print("%s: %s - %s -%s" %(i['published'],i['site'],i['title'], i['images']))
 
 import yaml
 with io.open('_data/thisisdrachenwald_feedlist.yaml', 'w', encoding='utf-8') as outfile:
