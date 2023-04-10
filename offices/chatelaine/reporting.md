@@ -13,11 +13,16 @@ Chatelaines are to report quarterly and submit an annual summary called the Doom
 The Kingdom Chatelaine must submit the report to the Kingdom Seneschal by the 25th: April, July, October and January (Domesday Report) and therefore needs to have the Regional Chatelaine reports by the 15th of the relevant month. In turn the Local Branch Chatelaines reports need to be with the Regionals by 5th of the relevant month. 
 
 <table>
-<th><td>Report</td><td>Months</td><td>Kingdom Report</td><td>Regional reports</td><td>Local Reports</td></th>
-<tr><td>Q1</td><td>Jan-Mar</td><td>25 April</td><td>15 April</td><td>5 April</td></tr>
-<tr><td>Q2</td><td>Apr-Jun</td><td>25 July</td><td>15 July</td><td>5 July</td></tr>
-<tr><td>Q3</td><td>Jul-Sep</td><td>25 October</td><td>15 October</td><td> 5 October</td></tr>
-<tr><td>Q4</td><td>Oct-Dec</td><td>25 January</td><td>15 January</td><td>5 January</td></tr>
+<tr><th scope="col">Report</th>
+	<th scope="col">Months</th>
+	<th scope="col">Kingdom Report</th>
+	<th scope="col">Regional reports</th>
+	<th scope="col">Local Reports</th>
+</tr>
+<tr><th scope="row">Q1</th>   <td>Jan-Mar</td><td>25 April</td><td>15 April</td><td>5 April</td></tr>
+<tr><th scope="row">Q2</th>   <td>Apr-Jun</td><td>25 July</td><td>15 July</td><td>5 July</td></tr>
+<tr><th scope="row">Q3</th>   <td>Jul-Sep</td><td>25 October</td><td>15 October</td><td> 5 October</td></tr>
+<tr><th scope="row">Q4</th>   <td>Oct-Dec</td><td>25 January</td><td>15 January</td><td>5 January</td></tr>
 </table>
 
 <h3>Submitting the reports</h3>
