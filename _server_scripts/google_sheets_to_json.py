@@ -49,10 +49,10 @@ if __name__ == '__main__':
                                       range=SAMPLE_RANGE_NAME).execute()
               values = result.get('values', [])
               if values:
-
                   max_col = len(values[0])
                   #all rows need to be the same length, Google Sheets API doesn't return cells without values
-                  corrected_values = [x + [''] * (max_col - len(x))for x in values]
+                  corrected_values1 = [x + [''] * (max_col - len(x))for x in values]
+                  corrected_values = [x[0:max_col] for x in corrected_values1]
                   #liquid works better with lower case letters and no spaces in the fieldnames
                   header_row = [x.lower().replace(' ','-').replace('/','-') for x in corrected_values[0]]
                   df = pd.DataFrame(corrected_values[1:], columns=header_row).fillna('')
@@ -69,8 +69,10 @@ if __name__ == '__main__':
               data = None
               if values:
                   max_col = len(values[0])
+                  corrected_values1 = [x + [''] * (max_col - len(x))for x in values]
+                  corrected_values = [x[0:max_col] for x in corrected_values1]
+
                   #all rows need to be the same length, Google Sheets API doesn't return cells without values
-                  corrected_values = [x + [''] * (max_col - len(x))for x in values]
                   #liquid works better with lower case letters and no spaces in the fieldnames
                   header_row = [x.lower().replace(' ','-').replace('/','-') for x in corrected_values[0]]
                   df = pd.DataFrame(corrected_values[1:], columns=header_row).fillna('')
@@ -97,7 +99,8 @@ if __name__ == '__main__':
                   json.dump(data, f, ensure_ascii=False, indent=4)    
         except HttpError as err:
             print(err)
-
+        except Exception as e:
+            print(e)
 
 
 
