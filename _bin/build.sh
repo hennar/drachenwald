@@ -19,3 +19,4 @@ cp _data/branches.json dis
 cp _data/chartered_peerage.json dis
 cp _data/roles.json dis
 cp _data/people.json dis
+cp _data/courtreports.json dis
