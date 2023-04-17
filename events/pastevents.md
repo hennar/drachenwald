@@ -2,6 +2,12 @@
 title: Past events published in the Dragons Tale
 ---
 
+The past events up untill 2020 are fairly reliable, but do miss the events that count as published because they were covered under a variance.
+
+The past events from 2019 have been retrieved from the event form and are reasonably reliable, but not clear if they have been published. 
+
+The events before 2019 have been scraped from the way back machine. There is no guarantee as to it's completeness for these years nor if they have been published.
+
 
 {% if site.data.fullcalendar.pastevents %}
   {% assign pastevents = site.data.fullcalendar.pastevents | sort: 'start_date' %}
