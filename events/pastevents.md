@@ -2,9 +2,15 @@
 title: Past events published in the Dragons Tale
 ---
 
+The past events up untill 2020 are fairly reliable, but do miss the events that count as published because they were covered under a variance.
 
-{% if site.data.fullcalendar.pastevents %}
-  {% assign pastevents = site.data.fullcalendar.pastevents | sort: 'start_date' %}
+The past events from 2019 have been retrieved from the event form and are reasonably reliable, but not clear if they have been published. 
+
+The events before 2019 have been scraped from the way back machine. There is no guarantee as to it's completeness for these years nor if they have been published.
+
+
+{% if site.data.pastevents %}
+  {% assign pastevents = site.data.pastevents  %}
 
 {% else %}
   {% assign pastevents  = "" %}
@@ -20,9 +26,7 @@ title: Past events published in the Dragons Tale
       <th scope="col"><strong><h3>Date</h3></strong></th>
       <th scope="col"><strong><h3>Host</h3></strong></th>
       <th scope="col"><strong><h3>Event</h3></strong></th>
-      <th scope="col"><strong><h3>Status</h3></strong></th>
-      <th scope="col"><strong><h3>Approved by Chronicler</h3></strong></th>
-
+      
     </tr>
   </thead>
 {% for item in pastevents %}
@@ -31,8 +35,7 @@ title: Past events published in the Dragons Tale
 		<td>{{ item.start_date | date: "%-d %b %Y" }} </td>
 		<td>{{ item.host_branch }}</td>
 		<td>{{ item.event_name }}</td>
-	    <td>{{ item.status }}</td>
-	     <td>{{ item.chroniclers_approval | date: "%b %d, %Y"  }}</td>
+	  </td>
 
        </tr>
 	{% endif %}
