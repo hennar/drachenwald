@@ -1,5 +1,5 @@
 ---
-title: Past events published in the Dragons Tale
+title: (Past) events published in the Dragons Tale
 ---
 
 The past events up untill 2020 are fairly reliable, but do miss the events that count as published because they were covered under a variance.
@@ -17,6 +17,15 @@ The events before 2019 have been scraped from the way back machine. There is no 
 	The past events  aren't available right now, please come back later.
 {% endif %}
 
+{% if site.data.courtreports %}
+  {% assign courtreports = site.data.courtreports | sort: 'start_date' %}
+
+{% else %}
+  {% assign courtreports  = "" %}
+	The court reports  aren't available right now.
+{% endif %}
+
+
 <table>
 
   <caption><h3>Past events</h3></caption>
@@ -26,21 +35,17 @@ The events before 2019 have been scraped from the way back machine. There is no 
       <th scope="col"><strong><h3>Date</h3></strong></th>
       <th scope="col"><strong><h3>Host</h3></strong></th>
       <th scope="col"><strong><h3>Event</h3></strong></th>
-      
     </tr>
   </thead>
 {% for item in pastevents %}
-	{% if item.chroniclers_approval != "" %}
+
+	{% assign event_slug = item.event_slug %}
  	   <tr>
-		<td>{{ item.start_date | date: "%-d %b %Y" }} </td>
-		<td>{{ item.host_branch }}</td>
-		<td>{{ item.event_name }}</td>
-	  </td>
-
+		<td>{{ item.start-date | date: "%-d %b %Y" }} </td>
+		<td>{{ item.host-branch }}</td>
+		<td>{{ item.event-name }}</td>
        </tr>
-	{% endif %}
 {% endfor %}
-
 </table>
 
 <div style="text-align: center">
