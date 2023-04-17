@@ -1,5 +1,5 @@
 ---
-title: Past events published in the Dragons Tale
+title: (Past) events published in the Dragons Tale
 ---
 
 The past events up untill 2020 are fairly reliable, but do miss the events that count as published because they were covered under a variance.
