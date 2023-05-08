@@ -70,12 +70,6 @@
          "comment":"regnum"
       },
       {
-         "sheetId":"18MP8AERRDsViqOPkX0tHQ48wEgKoj6nXBEIRDyINz84",
-         "sheet":"Meta: Special Interest Groups",
-         "dest":"_data/groups-special.json",
-         "comment":"regnum"
-      },
-      {
          "sheetId":"1y_78uLW7G7Y820xPz21JU219wWdEoOdiNETyWDDeAiw",
          "sheet":"Sheet1",
          "dest":"_data/academyofdefense.json",
