@@ -19,7 +19,7 @@ jobs:
         cache: 'pip' # caching pip dependencies
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2' # Not needed with a .ruby-version file
+        ruby-version: '2.7' # Not needed with a .ruby-version file
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Fetch external data
       env:
