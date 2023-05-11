@@ -68,6 +68,9 @@ Redirect 301 /sites/ https://sca-drachenwald.gitlab.io/archive/sites/
 Redirect 301 /forms/ https://forms.drachenwald-sca.org/forms/
 Redirect 301 /forms https://forms.drachenwald-sca.org/forms/
 
+# redirecting to the new book of ceremonies
+Redirect 301 /offices/herald/files/ceremonies.pdf https://ceremonies.drachenwald.sca.org/
+Redirect 301 /offices/herald/book-of-ceremonies/ https://ceremonies.drachenwald.sca.org/
 RewriteEngine On
 RewriteCond %{ENV:HTTPS} !on [OR]
 RewriteCond %{HTTP_HOST} ^www\. [NC]
