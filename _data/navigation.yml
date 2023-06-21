@@ -119,8 +119,6 @@ side-royals:
   children:
     - title: King & Queen
       url: /royals/
-    - title: The Heirs
-      url: /royals/heirs/
     - title: Landed Nobility
       url: /royals/territorial-royals/
     - title: Succession
