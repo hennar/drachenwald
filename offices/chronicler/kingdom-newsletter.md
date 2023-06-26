@@ -6,7 +6,7 @@ excerpt: Sharing the best news 'round the kingdom
 ---
 
 # The Dragon's Tale
-The [_Dragon's Tale_](https://members.sca.org/apps/#NewsletterFiles/12) is the official kingdom newsletter of the Kingdom of Drachenwald and is published monthly, available online and by post to subscribing members.
+The [_Dragon's Tale_](https://sca.app.neoncrm.com/np/clients/sca/neonPage.jsp?pageId=7) is the official kingdom newsletter of the Kingdom of Drachenwald and is published monthly, available online and by post to subscribing members.
 The newsletter is the official source for all Kingdom business, such as
 
 * changes to law

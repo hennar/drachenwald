@@ -30,7 +30,7 @@ Any questions, contact the chronicler
 
 # Kingdom Newsletter
 
-SCA Inc and SCA affiliate members: read [_The Dragon's Tale_](https://members.sca.org/apps/#NewsletterFiles/12), and every other kingdom's newsletter, online ! 
+SCA Inc and SCA affiliate members: read [_The Dragon's Tale_](https://sca.app.neoncrm.com/np/clients/sca/neonPage.jsp?pageId=7), and every other kingdom's newsletter, online ! 
 
 For access to older editions, contact the [kingdom chronicler, chronicler@drachenwald.sca.org](mailto:chronicler@drachenwald.sca.org) 
 
