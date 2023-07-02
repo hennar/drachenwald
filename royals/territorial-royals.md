@@ -11,6 +11,10 @@ exerpt: Lands held in fief to the Crown of Drachenwald
 <a href="{{ site.baseurl }}{% link royals/drachenwald-succession.md %}" class="btn btn--primary">Drachenwald Succession</a>
 </p>
 
+{% assign royalty= site.data.regnum-officers | where: "office", "royalty" %}
+
+{{ royalty }}
+
 Across Drachenwald, certain lands are secured by local nobility who hold regions in fief to the Crown.
 
 ## Nordmark (Sweden)
@@ -19,7 +23,7 @@ Across Drachenwald, certain lands are secured by local nobility who hold regions
 
 Their Highnesses of The [Principality of Nordmark](http://www.nordmark.org/)
 
-{% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Nordmark" %}
+{% assign v = royalty  | where: "group", "Nordmark" %}
 {% include territorial-contacts.md listing=v %}
 
 ### Styringheim (Island of Gotland, Sweden)
@@ -28,7 +32,7 @@ Their Highnesses of The [Principality of Nordmark](http://www.nordmark.org/)
 
 Their Excellencies of the [Barony of Styringheim](https://www.styringheim.se/)  
 
-{% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Nordmark-Styringheim" %}
+{% assign v = royalty | where: "group", "Nordmark-Styringheim" %}
 {% include territorial-contacts.md listing=v %}
 
 ### Gotvik (Gothenburg, Sweden)  
@@ -37,7 +41,7 @@ Their Excellencies of the [Barony of Styringheim](https://www.styringheim.se/)
 
 Their Excellencies of the [Barony of Gotvik](http://www.gotvik.se/)
  
-{% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Nordmark-Gotvik" %}
+{% assign v = royalty | where: "group", "Nordmark-Gotvik" %}
 {% include territorial-contacts.md listing=v %}
 
 ## Insulae Draconis (United Kingdom, Ireland, Iceland)  
@@ -46,7 +50,7 @@ Their Excellencies of the [Barony of Gotvik](http://www.gotvik.se/)
 
 Their Highnesses of the [Principality of Insulae Draconis](http://www.insulaedraconis.org/)  
 
-{% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Insulae Draconis" %}
+{% assign v = royalty | where: "group", "Insulae Draconis" %}
 {% include territorial-contacts.md listing=v %}
 
 ### Eplaheimr (Central, west and south Ireland)
@@ -54,7 +58,7 @@ Their Highnesses of the [Principality of Insulae Draconis](http://www.insulaedra
 
 Their Excellencies of the [Barony of Eplaheimr](https://eplaheimr.org/)  
 
-{% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Insulae Draconis-Eplaheimr" %}
+{% assign v = royalty | where: "group", "Insulae Draconis-Eplaheimr" %}
 {% include territorial-contacts.md listing=v %}
 
 ## Knight's Crossing (Germany)  
@@ -63,7 +67,7 @@ Their Excellencies of the [Barony of Eplaheimr](https://eplaheimr.org/)
 
 Their Excellencies of the [Barony of Knight's Crossing](http://www.knightscrossing.org/)  
  
-{% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Knights Crossing" %}
+{% assign v = royalty | where: "group", "Knights Crossing" %}
 {% include territorial-contacts.md listing=v %}
 
 ## Aarnimetsä (Finland)
@@ -72,5 +76,5 @@ Their Excellencies of the [Barony of Knight's Crossing](http://www.knightscrossi
 
 Their Excellencies of the [Barony of Aarnimetsä](http://www.aarnimetsa.org/)
  
-{% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Aarnimetsä" %}
+{% assign v = royalty | where: "group", "Aarnimetsä" %}
 {% include territorial-contacts.md listing=v %}
