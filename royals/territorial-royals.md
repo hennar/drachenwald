@@ -13,8 +13,6 @@ exerpt: Lands held in fief to the Crown of Drachenwald
 
 {% assign royalty= site.data.regnum-officers | where: "office", "royalty" %}
 
-{{ royalty }}
-
 Across Drachenwald, certain lands are secured by local nobility who hold regions in fief to the Crown.
 
 ## Nordmark (Sweden)
