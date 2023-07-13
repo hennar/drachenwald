@@ -1915,7 +1915,7 @@ Whereupon twenty years went by, and Albion, much weaker, much smaller than befor
 
 And he said, “Your Highness, why dost thou sit here so coldly in the snow?”
 
-Yustav said, “Friend Albion, my bones grow old, and the winters are cold. There is no heat to worm the inner ice. I fear that soon shall I die.”
+Yustav said, “Friend Albion, my bones grow old, and the winters are cold. There is no heat to warm the inner ice. I fear that soon shall I die.”
 
 Albion pondered this a moment, and then with his razor-sharp claws he plucked the heart from his breast, and placed it before the Prince, saying, “Your Highness, take this, my heart. Have it made into a fine robe, for there is nothing warmer in all the lands. Wear it and you shall live.”
 
