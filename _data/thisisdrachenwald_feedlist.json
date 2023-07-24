@@ -34,7 +34,7 @@
 {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqGx_aUUEfBuwIodRPbKWfA", "name": "Wolfram von Falkenstein and Alessandra di Riario's Youtube Channel", "link": "https://www.youtube.com/channel/UCqGx_aUUEfBuwIodRPbKWfA", "merge": false, "showMedia": true, "type": "youtube"},
 {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0mw96X7VNgbfpb6jEtsxg", "name": "Agnes Edgren's Youtube Channel", "link": "https://www.youtube.com/channel/UCy0mw96X7VNgbfpb6jEtsxg", "merge": false, "showMedia": true, "type": "youtube"},
  
-{"url": "https://www.youtube.com/feeds/videos.xml/channel_id=UCnKv3EZ9XNxOpndAUWP6_0g", "name": "Alice de la Wode's Youtube Channel", "link": "https://www.youtube.com/@AlicedelaWodeDrachenwaldHerbal", "merge": false, "showMedia": true, "type": "youtube"},
+{"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnKv3EZ9XNxOpndAUWP6_0g", "name": "Alice de la Wode's Youtube Channel", "link": "https://www.youtube.com/@AlicedelaWodeDrachenwaldHerbal", "merge": false, "showMedia": true, "type": "youtube"},
 
   {"url": "https://dracameron.blogspot.com/feeds/posts/default", "name":"The Drachenwald Decameron", "link":"https://dracameron.blogspot.com","merge": false,"showMedia":  true, "type": "blog"},
 {"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpUOf1-mprdInECs7PRne1XFrj5LkIF-i", "name": "Alexandre Davinge's Youtube Channel", "link": "https://www.youtube.com/playlist?list=PLpUOf1-mprdInECs7PRne1XFrj5LkIF-i", "merge": false, "showMedia": true, "type": "youtube"},
