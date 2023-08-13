@@ -57,6 +57,7 @@ f = open(storage_path)
 old_data = json.load(f)
 f.close()
 
+last_data=old_data[-1]
 if last_data['newsletters']!=new_data['newsletters']:
     print("updated information, updating json")
     with open(storage_path, "w") as write_file:
