@@ -6,7 +6,7 @@ featurealt: thing
 
 # Kingdom University 2021 Class list
 
-{% assign classes = site.data.kuonline2023 %}
+{% assign classes = site.data.kuonline2023.calendar %}
 
 {% assign cats = classes | map: "category" | sort | uniq %}
 
