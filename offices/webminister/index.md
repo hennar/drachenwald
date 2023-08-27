@@ -28,7 +28,7 @@ Mostly, Yda would like to hear from web ministers and would like to know if ther
 
 ## Kingdom site issues
 
-Send a report to the Gitlab issues tracker: <a href="https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io/-/issues/new"> 
+Send a report to the GitHub issues tracker: <a href="https://github.com/drachenwald/drachenwald/issues/new"> Raise a new issue</a>
 
 
 ## Updating information on the website

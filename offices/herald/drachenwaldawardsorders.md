@@ -5,7 +5,7 @@ toc_label: Contents
 excerpt: How the Crown of Drachenwald honours its citizens
 ---
 
-__Too long; didn't read:__ A list of the awards and orders unique to Drachenwald, and their badges and insignia. [Click to submit a recommendation via online form](http://op.drachenwald.sca.org/recommend).
+__Too long; didn't read:__ A list of the awards and orders unique to Drachenwald, and their badges and insignia. [Click to submit a recommendation via online form](http://op.drachenwald.sca.org/recommend). Looking for images of the awards? You can find them on the [Drachenwald Google workspace](https://drive.google.com/drive/u/1/folders/1igAd_j4ntLQsYYhPPu3nMUIIA53yHjIv). 
 {: .notice--primary}
 
 It is the happy custom of the SCA for the Crown Rulers to recognise contributions to the kingdom with awards. They give honour to those who make our game more fulfilling by working at events and behind the scenes.  Individuals may be recognized for striving for excellence in martial combat, arts, sciences, and many other areas within the SCA.

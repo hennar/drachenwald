@@ -19,5 +19,8 @@ featurealt: thing
 <h2>Past Kingdom Universities</h2>
 <ul>
 <li><a href="{{ site.baseurl }}{% link offices/unichancellor/ku2020.md %}">Kingdom University 2020</a></li>
+<li><a href="{{ site.baseurl }}{% link offices/unichancellor/ku2021.md %}">Kingdom University 2021</a></li>
+<li><a href="{{ site.baseurl }}{% link offices/unichancellor/kuonline2023.md %}">Kingdom University Online 2023</a></li>
+
 </ul>
 {% include officer-contacts.html %}

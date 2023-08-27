@@ -91,13 +91,15 @@ The current version of the submission forms are Laurel v. 4.0; Drachenwald v.1.0
 * [Name form (for individuals)]({{ site.baseurl }}{% link offices/herald/files/name-individuals.pdf %})
 * [Device form (for branches and individuals)]({{ site.baseurl }}{% link offices/herald/files/device.pdf %})
 * [Badge form (for branches and individuals)]({{ site.baseurl }}{% link offices/herald/files/badge.pdf %})
+* [Blank badge]({{ site.baseurl }}{% link offices/herald/files/blank-badge.png %})
+* [Blank device]({{ site.baseurl }}{% link offices/herald/files/blank-device.png %})
 
 ## Digital submission notes
 * Please do not fill the pdf form in the browser! Instead, download the forms and fill them out in Adobe Acrobat Reader or an equivalent pdf program.
 * The form can be sent as a pdf or a jpg file. The latter must be at least 300 dpi and 2330-2700 x 3150-4350 pixels in size.
 * Documentation can be sent as scans or photos.
 
-For devices and badges. If you have a picture file of at least 300 dpi of your heraldry, you can paste it into the form once the filled and saved pdf has been converted to a jpg file. Some of our heralds use the online version of [PDFtoJPG](https://pdf2jpg.net/) (choose JPG quality "Excellent - 300dpi") or [PDFescape](https://www.pdfescape.com/windows/). You can also send the pictures (one line drawing and one colour) and the form separately.
+For devices and badges. If you have a picture file of at least 300 dpi of your heraldry, you can paste it into the form once the filled and saved pdf has been converted to a jpg file. Some of our heralds use the online version of [PDFtoJPG](https://pdf2jpg.net/) (choose JPG quality "Excellent - 300dpi") or [PDFescape](https://www.pdfescape.com/windows/). You can also send the device/badge picture and the form separately.
 
 If you want to draw your picture, fill out the form first on your computer and then print it out, before starting to draw. Then draw the line drawing, copy the form and then colour the copy. Scan the forms at 300 dpi. Photos of forms will not be accepted.
 
