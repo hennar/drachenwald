@@ -44,10 +44,11 @@ tds=soup.find("div", class_="neoncrm_broadcast_section").find_all("td")
 lst=[]
 for td in tds:
     vals = td.text.split("\n")
-    kingdom=vals[1].strip()
-    name=vals[2].strip()
-    link=td.find("a")['href']
-    lst.append({"kingdom":kingdom,"name":name,"url":link})
+    if len(vals)>1:
+        kingdom=vals[1].strip()
+        name=vals[2].strip()
+        link=td.find("a")['href']
+        lst.append({"kingdom":kingdom,"name":name,"url":link})
     
 new_data = {"timestamp":ts,"newsletters":lst}
  
