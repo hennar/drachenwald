@@ -43,21 +43,24 @@ tds=soup.find("div", class_="neoncrm_broadcast_section").find_all("td")
 
 lst=[]
 for td in tds:
-    vals = [item.strip() for item in td.text.split("\n")]
-    while("" in vals):
-        vals.remove("")
-
-    
     kingdom = ""
     name = ""
-    if len(vals)>1:
-        kingdom=vals[0].strip()
-    if len(vals)>2:
-        name=vals[1].strip()
+
+    try:
+        vals = [item.strip() for item in td.text.split("\n")]
+        while("" in vals):
+            vals.remove("")
+
+        if len(vals)>1:
+            kingdom=vals[0].strip()
+        if len(vals)>2:
+            name=vals[1].strip()
         
-    link=td.find("a")['href']
-    lst.append({"kingdom":kingdom,"name":name,"url":link})
-    
+        link=td.find("a")['href']
+        lst.append({"kingdom":kingdom,"name":name,"url":link})
+    except:
+        print(f"issue extracting newsletter info for {kingdom} / {newsletter}")
+
 new_data = {"timestamp":ts,"newsletters":lst}
  
 import json
