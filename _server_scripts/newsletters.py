@@ -47,11 +47,16 @@ for td in tds:
     while("" in vals):
         vals.remove("")
 
+    
+    kingdom = ""
+    name = ""
     if len(vals)>1:
-        kingdom=vals[1].strip()
-        name=vals[2].strip()
-        link=td.find("a")['href']
-        lst.append({"kingdom":kingdom,"name":name,"url":link})
+        kingdom=vals[0].strip()
+    if len(vals)>2:
+        name=vals[1].strip()
+        
+    link=td.find("a")['href']
+    lst.append({"kingdom":kingdom,"name":name,"url":link})
     
 new_data = {"timestamp":ts,"newsletters":lst}
  
