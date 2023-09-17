@@ -43,7 +43,10 @@ tds=soup.find("div", class_="neoncrm_broadcast_section").find_all("td")
 
 lst=[]
 for td in tds:
-    vals = td.text.split("\n")
+    vals = [item.strip() for item in td.text.split("\n")]
+    while("" in vals):
+        vals.remove("")
+
     if len(vals)>1:
         kingdom=vals[1].strip()
         name=vals[2].strip()
