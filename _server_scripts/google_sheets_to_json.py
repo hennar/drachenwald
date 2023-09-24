@@ -95,8 +95,6 @@ if __name__ == '__main__':
                       metadata[key]=value	
                   data["metadata"]=metadata
     
-              with open('_data/google_creds.json', 'w', encoding='utf-8') as f:
-                  json.dump(cred_info, f, ensure_ascii=False, indent=4)    
               with open(dest, 'w', encoding='utf-8') as f:
                   json.dump(data, f, ensure_ascii=False, indent=4)    
         except HttpError as err:
