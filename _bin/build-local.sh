@@ -39,5 +39,5 @@ curl -k -o _data/navy.json  https://dis.drachenwald.sca.org/data/navy.json
 curl -k -o _data/pastevents.json  https://dis.drachenwald.sca.org/data/pastevents.json
 curl -k -o _data/academyofdefense.json  https://dis.drachenwald.sca.org/data/academyofdefense.json
 curl -k -o _data/people.json  https://dis.drachenwald.sca.org/data/people.json
-curl -k -o _data/groups/groups-special.json "https://scripts.drachenwald.sca.org/json/groups-special.json"
+#curl -k -o _data/groups/groups-special.json "https://scripts.drachenwald.sca.org/json/groups-special.json"
 

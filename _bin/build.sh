@@ -35,4 +35,5 @@ curl -k _data/laurelroster.json  https://dis.drachenwald.sca.org/data/laurelrost
 curl -k _data/navy.json  https://dis.drachenwald.sca.org/data/navy.json
 curl -k _data/pastevents.json  https://dis.drachenwald.sca.org/data/pastevents.json
 curl -k _data/academyofdefense.json  https://dis.drachenwald.sca.org/data/academyofdefense.json
+curl -k _data/people.json  https://dis.drachenwald.sca.org/data/people.json
 
