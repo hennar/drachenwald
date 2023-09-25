@@ -28,7 +28,7 @@ Mostly, Yda would like to hear from web ministers and would like to know if ther
 
 ## Kingdom site issues
 
-Send a report to the GitHub issues tracker: <a href="https://github.com/drachenwald/drachenwald/issues/new"> Raise a new issue</a>
+Send a report to the GitHub issues tracker: [Raise a new issue](https://github.com/drachenwald/drachenwald/issues/new)
 
 
 ## Updating information on the website

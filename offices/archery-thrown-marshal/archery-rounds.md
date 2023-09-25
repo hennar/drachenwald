@@ -18,7 +18,7 @@ These spreadsheets help in recording and submitting competition scores. Print th
 * [Drachenwald round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/Drachenwald_Round.xls %})(.xls file)
 
 
-The [Inter-Kingdom Archery Competition](http://scores-sca.org/home/index.php?R=10) (external link) website provides details og the standardised competition recognised across the known world.
+The [Inter-Kingdom Archery Competition](https://scores-sca.org/home/index.php?R=10) (external link) website provides details og the standardised competition recognised across the known world.
 
 # Submitting scores
 To submit scores from official events or practices, fill the appropriate scoresheet from the list above with the scores from the round and then submit these to the captain general of archers using one of the methods below:

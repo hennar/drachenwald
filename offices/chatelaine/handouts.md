@@ -12,6 +12,6 @@ title: Handouts
             - the address of the Office of the Registrar,<br />
             - the real name and phone number of a local contact person.<br />
           This ensures that a person can find the SCA at a later date, even if the person is living in another area.</p></li>
-<li>Use 20th century language, not SCA jargon. (This applies to demonstrations, too). Also avoid words that have a different meaning in the SCA than in the real world, i.e. mundane, killing blow, and peer. In particular, do not include "gaming" in your handout, because the public will assume this means 20th century fantasy games.</li>
+<li>Use 21st century language, not SCA jargon. (This applies to demonstrations, too). Also avoid words that have a different meaning in the SCA than in the real world, i.e. mundane, killing blow, and peer. In particular, do not include "gaming" in your handout, because the public will assume this means 21st century fantasy games.</li>
 <li>Remember that the SCA is a "non-profit, educational organisation", if you choose to include that information.</li>
 </ol>
