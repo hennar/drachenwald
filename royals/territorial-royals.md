@@ -19,7 +19,7 @@ Across Drachenwald, certain lands are secured by local nobility who hold regions
 
 <img src="{{ site.baseurl }}{% link images/heraldry/nm_vapen_liten.gif %}" width="40" alt="Arms of Nordmark">{: .align-left}  
 
-Their Highnesses of The [Principality of Nordmark](http://www.nordmark.org/)
+Their Highnesses of The [Principality of Nordmark](https://nordmark.org/)
 
 {% assign v = royalty  | where: "group", "Nordmark" %}
 {% include territorial-contacts.md listing=v %}
@@ -37,7 +37,7 @@ Their Excellencies of the [Barony of Styringheim](https://www.styringheim.se/)
 
 <img src="{{ site.baseurl }}{% link images/heraldry/gotviktrans.gif %}" width="40" alt="Arms of Gotvik">{: .align-left}  
 
-Their Excellencies of the [Barony of Gotvik](http://www.gotvik.se/)
+Their Excellencies of the [Barony of Gotvik](https://gotvik.se/)
  
 {% assign v = royalty | where: "group", "Nordmark-Gotvik" %}
 {% include territorial-contacts.md listing=v %}
@@ -46,7 +46,7 @@ Their Excellencies of the [Barony of Gotvik](http://www.gotvik.se/)
 
 <img src="{{ site.baseurl }}{% link images/heraldry/iddevice.svg %}" width="40" alt="Arms of Insulae Draconis">{: .align-left}  
 
-Their Highnesses of the [Principality of Insulae Draconis](http://www.insulaedraconis.org/)  
+Their Highnesses of the [Principality of Insulae Draconis](https://insulaedraconis.org/)
 
 {% assign v = royalty | where: "group", "Insulae Draconis" %}
 {% include territorial-contacts.md listing=v %}
@@ -54,7 +54,7 @@ Their Highnesses of the [Principality of Insulae Draconis](http://www.insulaedra
 ### Eplaheimr (Central, west and south Ireland)
 
 
-Their Excellencies of the [Barony of Eplaheimr](https://eplaheimr.org/)  
+Their Excellencies of the [Barony of Eplaheimr](https://eplaheimr.org/)
 
 {% assign v = royalty | where: "group", "Insulae Draconis-Eplaheimr" %}
 {% include territorial-contacts.md listing=v %}
@@ -63,7 +63,7 @@ Their Excellencies of the [Barony of Eplaheimr](https://eplaheimr.org/)
 
 <img src="{{ site.baseurl }}{% link images/heraldry/knightscrossing_m.gif %}" width="40" alt="Arms of Knight's Crossing">{: .align-left}  
 
-Their Excellencies of the [Barony of Knight's Crossing](http://www.knightscrossing.org/)  
+Their Excellencies of the [Barony of Knight's Crossing](https://www.knightscrossing.org/)
  
 {% assign v = royalty | where: "group", "Knights Crossing" %}
 {% include territorial-contacts.md listing=v %}
@@ -72,7 +72,7 @@ Their Excellencies of the [Barony of Knight's Crossing](http://www.knightscrossi
 
 <img src="{{ site.baseurl }}{% link images/heraldry/arnimetsa.gif %}" width="40" alt="Arms of Aarnimetsä">{: .align-left}  
 
-Their Excellencies of the [Barony of Aarnimetsä](http://www.aarnimetsa.org/)
+Their Excellencies of the [Barony of Aarnimetsä](https://www.aarnimetsa.org/)
  
 {% assign v = royalty | where: "group", "Aarnimetsä" %}
 {% include territorial-contacts.md listing=v %}
