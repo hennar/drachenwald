@@ -9,19 +9,19 @@
 ## Kingdom of Drachenwald
 <dl>
  <!-- Officer -->
- {% assign item = q | where: "group", "Drachenwald" | where: "officer_in_charge", "officer" | first %}
+ {% assign item = q | where: "group", "Drachenwald" | where: "role_type", "officer" | first %}
  {% if item | size > 0 %}
 	{% assign group = site.data.branches.data | where: "group", item.group | first %}  
  	{% include officer-bio.html holder=item group=group longname=office.longname sidebar=false showbio=true %}
  {% endif %}
  <!-- deputies -->
- {% assign deputies = q | where: "group", "Drachenwald" | where: "officer_in_charge", "deputy" %}
+ {% assign deputies = q | where: "group", "Drachenwald" | where: "role_type", "deputy" %}
  {% for item in deputies %}
  	{% assign group = site.data.branches.data| where: "group", item.group | first %}
     {% include officer-bio.html holder=item group=group longname=office.longname sidebar=false showbio=true %}
  {% endfor %}
  <!-- regional deputies -->
- {% assign item = q | where: "group", "Central" | where: "officer_in_charge", "officer" | first %}
+ {% assign item = q | where: "group", "Central" | where: "", "officer" | first %}
  {% assign group = site.data.branches.data | where: "group", item.group | first %}  
  {% if item | size > 0 %}
 	{% include officer-bio.html holder=item group=group longname=office.longname sidebar=false showbio=true %}
@@ -31,7 +31,7 @@
 <dl> <!-- regional officers -->
  {% assign regional-groups = site.data.branches.data | where: "parent", "Drachenwald" %}
   {% for group in regional-groups %}
-	{% assign item = q | where: "group", group.group | where: "officer_in_charge", "officer" | first %}
+	{% assign item = q | where: "group", group.group | where: "role_type", "officer" | first %}
 	{% if item | size > 0 %}
 		{% unless group.group == "Central" %}
 	    	{% include officer-bio.html holder=item group=group longname=office.longname sidebar=false showbio=true %}
