@@ -5,11 +5,11 @@ toc: true
 toc_label: Contents
 ---
 
-__Too long; didn't read:__ Current list of warranted marshals of archery and thrown weapons in Drachenwald. 
+__Too long; didn't read:__ [###TEST2###] Current list of warranted marshals of archery and thrown weapons in Drachenwald. 
 {: .notice--primary}
 
-{% if site.data.archery-marshals %}
-  {% assign archery-marshals = site.data.archery-marshals | sort: "Name" %}
+{% if site.data['archery-marshal'] %}
+  {% assign archery_marshal = site.data['archery-marshal'].data | sort: "name" %}
 
 {% else %}
   {% assign company-ranks = "" %}
@@ -28,21 +28,21 @@ __Too long; didn't read:__ Current list of warranted marshals of archery and thr
 
 <table>
   <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Warranting</th></tr>
- {% for itemAll in archery-marshals %}{% if itemAll.Region == "Nordmark" %} <tr><td> {{ itemAll.Name }} </td><td style="font-size:14pt"> {{ itemAll.Target_Archery }} </td><td style="font-size:14pt"> {{ itemAll.Thrown_Weapons }} </td><td style="font-size:14pt"> {{ itemAll.Warranting }} </td></tr> {% endif %}{% endfor %} 
+ {% for itemAll in archery_marshal %}{% if itemAll.region == "Nordmark" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.warranting }} </td></tr> {% endif %}{% endfor %} 
 </table>
 
 ## Insulae Draconis
 
 <table>
   <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Warranting</th></tr>
- {% for itemAll in archery-marshals %}{% if itemAll.Region == "Insulae Draconis" %} <tr><td> {{ itemAll.Name }} </td><td style="font-size:14pt"> {{ itemAll.Target_Archery }} </td><td style="font-size:14pt"> {{ itemAll.Thrown_Weapons }} </td><td style="font-size:14pt"> {{ itemAll.Warranting }} </td></tr> {% endif %}{% endfor %} 
+ {% for itemAll in archery_marshal %}{% if itemAll.region == "Insulae Draconis" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.warranting }} </td></tr> {% endif %}{% endfor %} 
 </table>
 
 ## Aarnimetsä
 
 <table>
   <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Warranting</th></tr>
- {% for itemAll in archery-marshals %}{% if itemAll.Region == "Aarnimetsä" %} <tr><td> {{ itemAll.Name }} </td><td style="font-size:14pt"> {{ itemAll.Target_Archery }} </td><td style="font-size:14pt"> {{ itemAll.Thrown_Weapons }} </td><td style="font-size:14pt"> {{ itemAll.Warranting }} </td></tr> {% endif %}{% endfor %} 
+ {% for itemAll in archery_marshal %}{% if itemAll.region == "Aarnimetsä" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.warranting }} </td></tr> {% endif %}{% endfor %} 
 </table>
 
 
@@ -50,9 +50,8 @@ __Too long; didn't read:__ Current list of warranted marshals of archery and thr
 
 <table>
   <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Warranting</th></tr>
- {% for itemAll in archery-marshals %}{% if itemAll.Region == "Central" %} <tr><td> {{ itemAll.Name }} </td><td style="font-size:14pt"> {{ itemAll.Target_Archery }} </td><td style="font-size:14pt"> {{ itemAll.Thrown_Weapons }} </td><td style="font-size:14pt"> {{ itemAll.Warranting }} </td></tr> {% endif %}{% endfor %} 
+ {% for itemAll in archery_marshal %}{% if itemAll.region == "Central" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.warranting }} </td></tr> {% endif %}{% endfor %} 
 </table>
 
 
-Data last updated: {% for itemAll in archery-marshals %}{% if itemAll.Name == "LastUpdate" %} {{ itemAll.Date }} {% endif %}{% endfor %}
-
+Data last updated: {{site.data['archery-marshal'].metadata.LastUpdate}}
