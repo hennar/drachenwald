@@ -37,4 +37,4 @@ Some resources for starting medieval cooking at home:
 
 * Forme of Cury, a late 14th c English recipe book originally written for Richard II's kitchen, and presents the recipes as they were written.
   * [Transcription of Forme of Cury](http://www.pbm.com/~lindahl/foc/)
-  * [Another copy of Forme of Cury digitised by British Library](http://www.bl.uk/manuscripts/Viewer.aspx?ref=add_ms_5016_fs001r#) 
+  * [Another copy of Forme of Cury digitised by British Library](https://www.bl.uk/manuscripts/Viewer.aspx?ref=add_ms_5016_fs001r#)

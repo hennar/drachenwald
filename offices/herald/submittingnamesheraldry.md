@@ -70,32 +70,38 @@ Account Number: 91484060
 Sort Code: 40-47-34  
 
 __Details for paying from outside UK__  
-IBAN: GB49MIDL40473491484060  
-BIC / SWIFT Code: MIDLGB2165G  
+IBAN: GB86HBUK40473491484060
+BIC: HBUKGB4165G
 Account Name: SCA - Kingdom of Drachenwald  
-Bank's Address: 2 North Walk, Yate, Bristol BS37 4AR  
+Bank's Address: 20 Badminton Road, Downend, Bristol, BS16 6BN
 Bank: HSBC  
 
 # Submission forms
-The Drachenwald submission forms are PDF files that you can fill out digitally, or print on paper to complete by hand. Edelweiss herald accepts email and paper submissions.
+For all types of name submissions, submit a single copy of the name form.
 
-E-mail edelweiss@drachenwald.sca.org to send your digital files or to ask for a postal address.
+For an armorial submission (device or badge), submit a single copy with a coloured picture.
 
-The current version of the submission forms is Laurel v. 3.0; Drachenwald v1.1 (Laurel Approved 15 Apr 2014). Please do not use forms dated any earlier, as they are no longer complete.
+The Drachenwald submission forms are PDF files that you can fill out digitally. Or, they can be printed out on paper to complete by hand. The Edelweiss herald accepts submissions sent via email, or on paper but email is preferred.
+
+Send your digital files to: edelweiss@drachenwald.sca.org or ask for a postal address.
+
+The current version of the submission forms are Laurel v. 4.0; Drachenwald v.1.0 (Laurel Approved 12 Jan 2023). Version 3.0 can be used through 2023. Please do not use forms dated any earlier, as they are no longer accepted.
 
 * [Name form (for branches)]({{ site.baseurl }}{% link offices/herald/files/name-branches.pdf %})
 * [Name form (for individuals)]({{ site.baseurl }}{% link offices/herald/files/name-individuals.pdf %})
 * [Device form (for branches and individuals)]({{ site.baseurl }}{% link offices/herald/files/device.pdf %})
 * [Badge form (for branches and individuals)]({{ site.baseurl }}{% link offices/herald/files/badge.pdf %})
+* [Blank badge]({{ site.baseurl }}{% link offices/herald/files/blank-badge.png %})
+* [Blank device]({{ site.baseurl }}{% link offices/herald/files/blank-device.png %})
 
 ## Digital submission notes
 * Please do not fill the pdf form in the browser! Instead, download the forms and fill them out in Adobe Acrobat Reader or an equivalent pdf program.
 * The form can be sent as a pdf or a jpg file. The latter must be at least 300 dpi and 2330-2700 x 3150-4350 pixels in size.
 * Documentation can be sent as scans or photos.
 
-For devices and badges. If you have a picture file of at least 300 dpi of your heraldry, you can paste it into the form once the filled and saved pdf has been converted to a jpg file. Some of our heralds use the online version of [PDFtoJPG](https://pdf2jpg.net/) (choose JPG quality "Excellent - 300dpi") or [PDFescape](https://www.pdfescape.com/windows/). You can also send the pictures (one line drawing and one color) and the form separately.
+For devices and badges. If you have a picture file of at least 300 dpi of your heraldry, you can paste it into the form once the filled and saved pdf has been converted to a jpg file. Some of our heralds use the online version of [PDFtoJPG](https://pdf2jpg.net/) (choose JPG quality "Excellent - 300dpi") or [PDFescape](https://www.pdfescape.com/windows/). You can also send the device/badge picture and the form separately.
 
-If you want to draw your picture, fill out the form first on your computer and then print it out, before starting to draw. Then draw the line drawing, copy the form and then color the copy. Scan the forms at 300 dpi. Photos of forms will not be accepted.
+If you want to draw your picture, fill out the form first on your computer and then print it out, before starting to draw. Then draw the line drawing, copy the form and then colour the copy. Scan the forms at 300 dpi. Photos of forms will not be accepted.
 
 All digital submission are to be sent to edelweiss@drachenwald.sca.org
 
@@ -103,7 +109,7 @@ All digital submission are to be sent to edelweiss@drachenwald.sca.org
 When printing out the (fully or partially filled) PDF file: in your printer's Page Scaling options, choose None (vs. Fit to Paper, a common default for A4 paper). Make sure you print a 100% scale version of the PDF, to produce a form of the correct size.
 Tip: To confirm your print settings, measure the shield (on the device form). It should be exactly 5 x 6 inches (12.7x15.2 cm).
 
-When colouring in the colour version of device or badge form, please use felt-tipped non-washable colour markers for the colour version. Watercolors, wax-based media such as crayons, and colored pencils are not acceptable.
+When colouring in the colour version of device or badge form, please use felt-tipped non-washable colour markers for the colour version. Watercolours, wax-based media such as crayons, and coloured pencils are not acceptable.
 
 ## Permissions to conflict and heraldic wills
 SCA College of Arms has letter templates for different kinds of permissions to conflict and heraldic wills on their FAQ page: scroll down to 'Letter Questions'.
@@ -199,11 +205,11 @@ Recommended means, for us, that it is useful during the submission process, but 
 
 __Your E-mail Address__ is our main and preferred means to notify you about the particular submission. (Other kingdoms may have different policies on this matter.)
 
-__Date of Birth__ is not mandatory to give, and in fact does not need to be your legal date of birth. What matters is that everything you ever submit has the same "Date of Birth" value. It is used together with your Legal Name and Address to identify you during the submission process, so all submissions are correctly attributed to individuals.
-
 ## Other personal information: nice but not necessary
 
-__Gender of Submitter__ is not required. We expect that the next version of the Name Submission Forms will not request for this information. We don't use this info.
+__Gender of Submitter__ leave blank. We expect that the next version of the Name Submission Forms will not request for this information. We don't use this info.
+
+__Date of Birth__ leave blank. We expect that the next version of the Name Submission Forms will not request for this information. We don't use this info.
 
 __Your Phone Number__ to contact you about your submission. In Drachenwald contacting via phone is only done if e-mail contacting fails. (Some other kingdoms have different policies on this matter.) 
 

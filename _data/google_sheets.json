@@ -1,0 +1,104 @@
+{
+   "sheets":[
+    {
+         "sheetId":"1aq76tjaxOT5q4c0vIRRJ6GuEaRHVmguao_XLCpZ8jVM",
+         "data":"export",
+         "meta":"metadata",
+         "dest":"_data/chartered_peerage.json",
+         "comment":"new special interests file"
+      },
+        {
+         "sheetId":"1aq76tjaxOT5q4c0vIRRJ6GuEaRHVmguao_XLCpZ8jVM",
+         "data":"export",
+         "meta":"metadata",
+         "dest":"_data/groups-special.json",
+         "comment":"new special interests file"
+      },  
+    {
+         "sheetId":"1N5PsRwDtc5S0S1SwBdzlTyL-kc6pf_4psgKW7s3bpv0",
+         "data":"RO: roles",
+         "meta":"metadata",
+         "dest":"_data/roles.json",
+         "comment":"roles"
+      },
+    {
+         "sheetId":"1N5PsRwDtc5S0S1SwBdzlTyL-kc6pf_4psgKW7s3bpv0",
+         "data":"Currently Active Officers",
+         "meta":"metadata",
+         "dest":"_data/people.json",
+         "comment":"officers, vips & royals"
+      },
+          {
+         "sheetId":"17sggZ9kXlaKRboEFTO2YJSoXAzx2ZjpUcg_wEsqRWmA",
+         "data":"export",
+         "meta":"metadata",
+         "dest":"_data/branches.json",
+         "comment":"new groups file"
+      },
+
+      {
+         "sheetId":"1-3Vo-pY1NwW7ZYLcQ98XQ-uY0aLgQQ2iMy-L0F3ibns",
+         "sheet":"Sheet1",
+         "dest":"_data/golden-egg.json"
+      },
+      {
+         "sheetId":"170LL58lyuXszZ-EU_NNIjmZGWlWXMpkpa2fnqEHy1Gs",
+         "sheet":"Current",
+         "dest":"_data/navy.json"
+      },
+      {
+         "sheetId":"1kownILgL4GB-sqzkRW1GOdAhU5deDe9fGYEqemyuxBg",
+         "sheet":"website",
+         "dest":"_data/courtreports.json",
+         "comment":"Court Reports"
+      },
+      {
+         "sheetId":"1VFcAoS3Jvig8GAdIt4ZWviotGZ7s7EBo9aXQbFWdpEE",
+         "sheet":"Roster",
+         "dest":"_data/laurelroster.json",
+         "comment":"Laurel"
+      },
+      {
+         "sheetId":"18MP8AERRDsViqOPkX0tHQ48wEgKoj6nXBEIRDyINz84",
+         "sheet":"officers-website",
+         "dest":"_data/regnum-officers.json",
+         "comment":"regnum"
+      },
+      {
+         "sheetId":"18MP8AERRDsViqOPkX0tHQ48wEgKoj6nXBEIRDyINz84",
+         "sheet":"officers-website-in-a-box",
+         "dest":"_data/regnum-officers-box.json",
+         "comment":"regnum"
+      },
+      {
+         "sheetId":"18MP8AERRDsViqOPkX0tHQ48wEgKoj6nXBEIRDyINz84",
+         "sheet":"Groups-website",
+         "dest":"_data/regnum-groups.json",
+         "comment":"regnum"
+      },
+      {
+         "sheetId":"1y_78uLW7G7Y820xPz21JU219wWdEoOdiNETyWDDeAiw",
+         "sheet":"Sheet1",
+         "dest":"_data/academyofdefense.json",
+         "comment":"Defence"
+      },
+      {
+         "sheetId":"1ttE065B8xOZT3uCmhYM5RN0pMLGhToI8l7F96A-yZV0",
+         "sheet":"bidlist",
+         "dest":"_data/bidlist.json",
+         "comment":"calendar"
+      },
+      {
+         "sheetId":"1ttE065B8xOZT3uCmhYM5RN0pMLGhToI8l7F96A-yZV0",
+         "sheet":"Published events",
+         "dest":"_data/pastevents.json",
+         "comment":"calendar"
+      },
+      {
+         "sheetId":"1ttE065B8xOZT3uCmhYM5RN0pMLGhToI8l7F96A-yZV0",
+         "sheet":"public-calendar",
+         "dest":"_data/calendar.json",
+         "comment":"calendar"
+      }   ]
+}
+

@@ -3,7 +3,8 @@ title: Events in Drachenwald
 redirect_from:
   - /events/
 ---
-<a href="http://www.drachenwald.sca.org/events/pastevents/">Past events</a>
+[Past Events]({{ site.baseurl }}{% link events/pastevents.md %})
+
 
 {% if jekyll.environment == "production" %}
 <div  id="calendar"

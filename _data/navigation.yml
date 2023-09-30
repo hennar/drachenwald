@@ -53,7 +53,7 @@ side:
 
 
 - title: Forms
-  url: http://www.drachenwald.sca.org/forms
+  url: https://www.drachenwald.sca.org/forms
 
 side-whatwedo:
 
@@ -98,7 +98,7 @@ side-whatwedo:
   url: https://datastudio.google.com/u/0/reporting/34b2fab2-6092-4574-a11d-f4dfa9adc415/page/lVXNC
 
 - title: Forms
-  url: http://www.drachenwald.sca.org/forms
+  url: https://www.drachenwald.sca.org/forms
 
 side-royals:
 
@@ -119,8 +119,6 @@ side-royals:
   children:
     - title: King & Queen
       url: /royals/
-    - title: The Heirs
-      url: /royals/heirs/
     - title: Landed Nobility
       url: /royals/territorial-royals/
     - title: Succession
@@ -139,7 +137,7 @@ side-royals:
   url: https://datastudio.google.com/u/0/reporting/34b2fab2-6092-4574-a11d-f4dfa9adc415/page/lVXNC
 
 - title: Forms
-  url: http://www.drachenwald.sca.org/forms
+  url: https://www.drachenwald.sca.org/forms
 
 side-offices:
 
@@ -161,8 +159,6 @@ side-offices:
 - title: Offices
   url: /offices/
   children:
-    - title: This is Drachenwald
-      url: /thisis/
     - title: Seneschal
       url: /offices/seneschal/
     - title: Exchequer
@@ -189,6 +185,8 @@ side-offices:
       url: /offices/signet/
     - title: Web Minister
       url: /offices/webminister/
+    - title: Social Media
+      url: /offices/socialmedia/
 
 - title: Orders & Charter Groups
   url: /offices/
@@ -203,7 +201,19 @@ side-offices:
       url: /peers/defence/
     - title: Academy of Defense
       url: /chartergroups/academy-of-defence/
-
+    - title: Society of the Golden Egg
+      url: /chartergroups/golden-egg/
+    - title: Cooks Guild
+      url: /chartergroups/cooks-guild/            
+    - title: Practical Drachenwald
+      url: /chartergroups/practical-drachenwald/
+    - title: Drachenwald Navy
+      url: /chartergroups/navy/
+    - title: Herbalist Guild
+      url: /chartergroups/herbalist-guild/   
+    - title: Armourers Guild
+      url: /chartergroups/armourers-guild/            
+      
 - title: Diversity & Inclusion
   url: /offices/seneschal/diversity-equity-inclusion-council/
 
@@ -214,4 +224,4 @@ side-offices:
   url: https://datastudio.google.com/u/0/reporting/34b2fab2-6092-4574-a11d-f4dfa9adc415/page/lVXNC
 
 - title: Forms
-  url: http://www.drachenwald.sca.org/forms
+  url: https://www.drachenwald.sca.org/forms

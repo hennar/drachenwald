@@ -20,7 +20,7 @@ Heralds bring pageantry to the Society: we help make a modern experience turn in
 * [Drachenwald customs: some inter-kingdom anthropology]({{ site.baseurl }}{% link offices/herald/customsandinterkingdomanthropology.md %}), for those who move here from other lands
 
 # Court and protocol
-* [Drachenwald Book of Ceremonies, version 3, Jan 2017, AS 51]({{ site.baseurl }}{% link offices/herald/files/ceremonies-v3.pdf %})
+* [Drachenwald Book of Ceremonies, version 4, June 2022, AS 57]({{ site.baseurl }}{% link offices/herald/files/ceremonies.pdf %})
 * [Drachenwald Book of Ceremonies Apocrypha, Jan 2017, AS 51 (examples of ceremonies)]({{ site.baseurl }}{% link offices/herald/files/drachenwald_apocrypha.pdf %})
 * [The Zen of good court: building the special occasions of the Society]({{ site.baseurl }}{% link offices/herald/zenofgoodcourtguidance.md %})
 * [Field heralding crash course]({{ site.baseurl }}{% link offices/herald/fieldheraldrycrashcourse.md %})
@@ -30,6 +30,7 @@ Heralds bring pageantry to the Society: we help make a modern experience turn in
 * [Court Report Webform](https://forms.gle/eJ4upNNxXNfZNWVj6), please submit court reports using this webform.
 * [Court Reporting overview]({{ site.baseurl }}{% link offices/herald/sendacourtreport.md %}), recording the events of court, for kingdom and regional records, as part of kingdom history
 * [Court Reports in the queue]({{ site.baseurl }}{% link offices/herald/courtreports.md %})
+
 # Register your name and armory
 * [Submitting names and heraldry in Drachenwald]({{ site.baseurl }}{% link offices/herald/submittingnamesheraldry.md %}), explaining the process of getting your own name and heraldry registered
 * [LoARs: Archive of Letters of Acceptance and Return](http://heraldry.sca.org/loar/), the final decisions on submissions from Laurel Sovereign of Arms and staff
