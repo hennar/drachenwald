@@ -34,6 +34,10 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
+# https://github.com/jekyll/jekyll-sass-converter#configuration-options
+sass:
+  quiet_deps: true # The minimal-mistakes-jekyll theme output sass deprecation warnings. Ignore these - plans are to change away from that theme.
+
 permalink: pretty
 
 exclude:
