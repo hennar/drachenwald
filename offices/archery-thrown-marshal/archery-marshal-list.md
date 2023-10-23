@@ -5,7 +5,7 @@ toc: true
 toc_label: Contents
 ---
 
-__Too long; didn't read:__ [###TEST2###] Current list of warranted marshals of archery and thrown weapons in Drachenwald. 
+__Too long; didn't read:__ Current list of warranted marshals of archery and thrown weapons in Drachenwald. 
 {: .notice--primary}
 
 {% if site.data['archery-marshal'] %}
