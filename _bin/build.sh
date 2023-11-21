@@ -16,7 +16,6 @@ done
 
 declare -a DisDocuments=(
   "academyofdefense"
-  "archery-marshal"
   "branches"
   "chartered_peerage"
   "courtreports"
