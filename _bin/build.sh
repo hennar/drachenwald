@@ -9,14 +9,8 @@ declare -a ScriptsDocuments=(
   "fullcalendar"
 )
 
-
-for word in "${ScriptsDocuments[@]}" ; do
-  curl --silent -k -o _data/${word}.json "https://scripts.drachenwald.sca.org/json/${word}.json"
-done
-
 declare -a DisDocuments=(
   "academyofdefense"
-  "archery-marshal"
   "branches"
   "chartered_peerage"
   "courtreports"
