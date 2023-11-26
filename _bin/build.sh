@@ -3,7 +3,6 @@
 # Omitted:
 # "https://scripts.drachenwald.sca.org/json/groups-special.json"
 declare -a ScriptsDocuments=(
-  "archery-marshals"
   "archery-progression"
   "archery-ranks"
   "fullcalendar"
@@ -15,7 +14,7 @@ done
 
 declare -a DisDocuments=(
   "academyofdefense"
-  "archery-marshal"
+  "archery-marshals"
   "branches"
   "chartered_peerage"
   "courtreports"
