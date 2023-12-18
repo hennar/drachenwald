@@ -6,7 +6,7 @@ The past events after 2020 are fairly reliable, but do miss the events that coun
 
 The past events from 2019 have been retrieved from the event form and are reasonably reliable, but not clear if they have been published. 
 
-The events before 2019 have been scraped from the way back machine. There is no guarantee as to it's completeness for these years nor if they have been published.
+The events before 2019 have been scraped from the way back machine. There is no guarantee as to its completeness for these years nor if they have been published.
 
 Court report information is limited to those reports submitted via the court report form.
 
