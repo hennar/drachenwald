@@ -35,9 +35,7 @@ Court report information is limited to those reports submitted via the court rep
 	There is no information about court reports available right now
 {% endif %}
 
-
 <table>
-
   <caption><h3>Past events</h3></caption>
   
   <thead>
