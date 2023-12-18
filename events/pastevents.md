@@ -23,7 +23,8 @@ Court report information is limited to those reports submitted via the court rep
 
 {% else %}
   {% assign courtreports  = "" %}
-	<!--There are no public court reports available right now-->
+<!--There are no public court reports available right now.-->
+
 {% endif %} 
 
 {% if site.data.courtreports %}
