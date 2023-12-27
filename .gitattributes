@@ -1,3 +1,14 @@
 # Treat all text files without a CR (as we have Docker)
-* text eol=lf
+* text=auto
 
+*.rb text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+
+# These are binary, and are not to be changed
+*.png binary
+*.jpg binary
+*.pdf binary
