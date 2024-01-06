@@ -54,4 +54,4 @@ __Too long; didn't read:__ Current list of warranted marshals of archery and thr
 </table>
 
 
-Data last updated: {{site.data['archery-marshal'].metadata.LastUpdate}}
+Data last updated: {{site.data['archery-marshals'].metadata.LastUpdate}}
