@@ -205,16 +205,16 @@ then
 
 ## Jekyll says it cannot build because it's missing a gem
 
-Sometimes...gems have 'dependencies' - they need another gem buddy in order to run.  
+Sometimes...gems have 'dependencies' - they need another gem buddy in order to run.
 
-And they need a *specific version* of their buddy to work. 
+And they need a *specific version* of their buddy to work.
 
 You can track down individual gems in https://rubygems.org/ and add them to the bundle (entering the command from the correct directory location).
 
 `gem install <name of gem you want>`
 
-Alternately you can update all the gems. This option takes a little longer, and requires admin privileges. 
-`gem update --system` 
+Alternately you can update all the installed gems. This option takes a little longer.
+`gem update`
 
 ## Jekyll doesn't build and throws a peculiar error
 
