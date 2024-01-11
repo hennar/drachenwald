@@ -43,7 +43,7 @@ classes: wide
         <th>Group</th>
         <td class="text-left">
           <select name="groupselect" id="groupselect">
-            {% for group in site.data.groups.grouplist %}
+            {% for group in site.data.regnum-groups %}
               {% if group.group == "Drachenwald" %}
                 <option value="">-- Choose a group --</option>
               {% elsif group.parent == "Drachenwald" %}
