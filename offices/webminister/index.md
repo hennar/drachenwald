@@ -7,24 +7,21 @@ excerpt: Who keeps this online circus running?
 ## Kingdom web artificers
 
 These folks volunteer to work on the kingdom website and other IT affairs
+* Maria Harsick
 * Yda v Boulogne
 * Menja (Mallymkun Galpin)
-* Maria Harsick
 * Sela de la Rosa
-* Genevieve la flechiere
 * Marcella di Cavellino
-
+* Genevieve la flechiere
 
 ## Google Workspace
-* [Dragon's tale articles](https://members.sca.org/apps/newsletters/Drachenwald/Drachenwald%20DRAGONS%20TALE%202204.pdf)
+* [Latest Dragon's tale](https://sca.app.neoncrm.com/np/clients/sca/neonPage.jsp?pageId=7)
 * [FAQ](https://docs.google.com/document/d/1kQaMzJhJLQJAIPQKwkxPpGVFNGIl6WQId2WqTsaYc3g/edit)
 * [Drachenwald Google Workspace Policy](https://docs.google.com/document/d/1wgzxoUSlMYCvkeR2s7vwwBx70FPB3zfx1eTFnLLil0w/edit?usp=sharing)
 
 ## Reporting for principality and local webministers
 
-Mostly, Yda would like to hear from web ministers and would like to know if there's anything you're running into that kingdom web artificers can help with. Beyond that she appreciates getting an update on major things planned or that happened.  
-
-* [Reports](https://docs.google.com/document/d/1mfo0QJxps8tIa1yqA5Bg0PRjHfb0GT-Ls-rv0C6ZHeA/edit?usp=sharing)
+Mostly, Maria would like to hear from web ministers and would like to know if there's anything you're running into that kingdom web artificers can help with. Beyond that she appreciates getting an update on major things planned or that happened.  
 
 ## Kingdom site issues
 
