@@ -26,4 +26,4 @@ With great pleasure we welcome the following couples to the tournament to fight 
 - Master Agnes Boncuer fighting for Máistir Aodh Ó Siadhail
 - Lord Etienne the Younger fighting for Viscountess Susanna of York
 
-[About Spring Crown](https://drachenwald.sca.org/events/calendar/#/insulae-draconis-dun-in-mara/2024-04-05/spring-crown-2024){: .btn .btn-primary}
+[About Spring Crown](https://drachenwald.sca.org/events/calendar/#/insulae-draconis-dun-in-mara/2024-04-05/spring-crown-2024){: .btn .btn--primary}
