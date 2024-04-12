@@ -47,13 +47,13 @@ We take safety seriously. 'Authorisation' refers to a person who wants to become
 
 # Reporting
 
-Click to use Google forms to submit a marshal's report for your region.
+Use a form to submit a marshal's report for your region.
 
-* [Principality of Nordmark](https://goo.gl/forms/zfE5wygztHLnsl9g2) (SE)
-* [Principality of Insulae Draconis](https://goo.gl/forms/PB965pufulcSfZzJ3) (IE, IS, UK)  
-* [Barony of Aarnimetsä](https://forms.gle/32oHzWEqoBksCv6S8) (FI)
-* [Central region](https://goo.gl/forms/OKvdVid4v3obVX6A3) (AT, CH, BE, DK, FR, NL, PL, RO, RU)
-* [Southern region](https://goo.gl/forms/qAazDUfGV5lCLlR03) (BG, IL, IT, ZA)
+* [Kingdom of Drachenwald](https://forms.gle/URhRb2i2SBowT9Jd9) (Any region in the kingdom)
+* [Principality of Nordmark](https://forms.gle/LrHJFMTn6XoVRHWv5) (SE)
+* [Principality of Insulae Draconis](https://forms.gle/NGiogJFy3uEWQWfT8) (IE, IS, UK)  
+* [Barony of Aarnimetsä](https://forms.gle/LsrjX96BUTqqwFxX6) (FI)
+* [Central region](https://forms.gle/eNZ2draDJ7RXDmAQA) (AT, BG, CH, BE, DK, FR, NL, PL, RO, RU, IL, IT, ZA)
 
 # Rounds
 

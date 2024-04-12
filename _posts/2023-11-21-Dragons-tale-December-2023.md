@@ -1,5 +1,5 @@
 ---
-title:  "October Dragon's Tale has been published"
+title:  "December Dragon's Tale has been published"
 date:   2023-11-21 23:55:00 +0000
 tags: "DragonsTale"
 category: news

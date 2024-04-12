@@ -6,7 +6,7 @@ The past events after 2020 are fairly reliable, but do miss the events that coun
 
 The past events from 2019 have been retrieved from the event form and are reasonably reliable, but not clear if they have been published. 
 
-The events before 2019 have been scraped from the way back machine. There is no guarantee as to it's completeness for these years nor if they have been published.
+The events before 2019 have been scraped from the way back machine. There is no guarantee as to its completeness for these years nor if they have been published.
 
 Court report information is limited to those reports submitted via the court report form.
 
@@ -23,7 +23,8 @@ Court report information is limited to those reports submitted via the court rep
 
 {% else %}
   {% assign courtreports  = "" %}
-	<!--There are no public court reports available right now-->
+<!--There are no public court reports available right now.-->
+
 {% endif %} 
 
 {% if site.data.courtreports %}
@@ -34,9 +35,7 @@ Court report information is limited to those reports submitted via the court rep
 	There is no information about court reports available right now
 {% endif %}
 
-
 <table>
-
   <caption><h3>Past events</h3></caption>
   
   <thead>
