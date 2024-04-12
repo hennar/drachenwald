@@ -528,7 +528,7 @@ Award for excellence and example in noble speech and behaviour. Given to those w
 
  Award for prowess in combat and arts martial. Given to those who demonstrate ongoing achievement and dedication to their chosen martial arts.
 
- ## Tuatha de Filí 
+## Tuatha de Filí 
 
 Award for achievement in bardic arts and performance. Given for excellence and achievements in entertainment, skill in execution, talent and ability in their chosen Bardic arts.
 
