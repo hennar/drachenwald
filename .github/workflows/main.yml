@@ -13,10 +13,6 @@ jobs:
     environment: production
     steps:
     - uses: actions/checkout@v4
-    - uses: actions/setup-python@v5
-      with:
-        python-version: '3.9'
-        cache: 'pip' # caching pip dependencies
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '2.7' # Not needed with a .ruby-version file
