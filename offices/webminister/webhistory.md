@@ -1,14 +1,14 @@
 ---
-title: Some web minister history
+title: Web minister history
 subtitle: Digital Archeology for the win
 ---
 
+We have been at this a long time. Here are historical milestones.
+
 # 2001
-A website at appeared at [http://www.drachenwald.sca.org](https://web.archive.org/web/20010228110603/http://www.drachenwald.sca.org/) some time before the end of February 2001.
-
-By October, there's [a calendar](https://web.archive.org/web/20011021032829/http://www.drachenwald.sca.org:80/calendar.htm). It even contains reporting deadlines, that sounds really useful!
-
-Web Minister: Rhys Terafan Greydragon 
+* A website at appeared at [http://www.drachenwald.sca.org](https://web.archive.org/web/20010228110603/http://www.drachenwald.sca.org/) some time before the end of February 2001.
+* By October, there's [a calendar](https://web.archive.org/web/20011021032829/http://www.drachenwald.sca.org:80/calendar.htm). It even contains reporting deadlines, that sounds really useful!
+* Web Minister: Rhys Terafan Greydragon 
 
 # 2002
 * [Drei Eichen was once a Barony](https://web.archive.org/web/20020612034333/http://www.drachenwald.sca.org/barons.htm)
