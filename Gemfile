@@ -11,7 +11,7 @@ gem "faraday-retry", "~> 2.2"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", github: "jekyll/jekyll"
+gem "jekyll", github: "jekyll/jekyll" # LOCKED: Since https://github.com/drachenwald/drachenwald/pull/132, we use an unreleased version of Jekyll. When https://github.com/jekyll/jekyll/pull/9392 is released in a new Jekyll version, use that instead of having `github: "jekyll/jekyll"`.
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minimal-mistakes-jekyll"
