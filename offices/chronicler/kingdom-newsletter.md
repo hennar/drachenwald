@@ -26,7 +26,7 @@ In addition to the above, the newsletter also publishes court reports, the resul
 
 Subscriptions are only available to SCA Inc members and SCA affiliate members. Contact the [seneschal of the group closest to you]({{ site.baseurl }}{% link groups/index.html %}) or the [kingdom seneschal]({{ site.baseurl }}{% link offices/seneschal/index.md %}).
 
-Current copies can be found as PDF can be found on [the SCA Inc membership site](https://members.sca.org/apps/#NewsletterFiles/12). No membership is required to read the current  PDF newsletters.
+Current copies can be freely downloaded as PDF on [the SCA Newsletters site](https://sca.app.neoncrm.com/np/clients/sca/neonPage.jsp?pageId=7).
 
 For those receiving paper copies, these are typically posted around the 20th of the month before the month of issue. 
 
