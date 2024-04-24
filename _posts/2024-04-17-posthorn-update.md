@@ -46,6 +46,6 @@ A reminder also that we are accepting images of heraldic devices. Send an email 
 Posthorn sometimes needs help resizing or even creating heraldic images from scratch. If you have illustration skills and are willing to help out, please reach out to me. Volume has probably been once every other month up until now, so unless the populace decides to flood the office with new requests, this should not be a very time-consuming task.
 
 
-Yours In Service,
-Countess Jacquelyna de Bellmont, Drachenwald Posthorn Herald, <posthorn@drachenwald.sca.org>
+Yours In Service,<br>
+Countess Jacquelyna de Bellmont, Drachenwald Posthorn Herald, <posthorn@drachenwald.sca.org><br>
 THL Yda Van Boulogne, Deputy Webminister
