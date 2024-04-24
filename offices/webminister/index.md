@@ -35,5 +35,6 @@ Send a report to the GitHub issues tracker: [Raise a new issue](https://github.c
 ## Tools for group webministers
 
 * [Live contact information for your group]({{ site.baseurl }}{% link offices/webminister/officer-code-creator.html %})
+* [Web minister tools]({{ site.baseurl }}{% link offices/webminister/tools.md %})
 
 {% include officer-contacts.html %}
