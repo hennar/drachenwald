@@ -4,7 +4,7 @@ date:   2024-04-17 09:00:00 +0000
 tags: "Posthorn"
 category: news
 author: webartificers
-excerpt: "Read the latest updates from Drachenwald's Posthorn Herald."
+excerpt: "Read about the latest revisions to the OP, including modern names, titles, and pronouns."
 ---
 
 Greetings Drachenwald!
