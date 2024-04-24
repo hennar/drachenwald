@@ -19,7 +19,7 @@ TL/DR:
 
 The webteam and Posthorn present to you the newest revision of the Order of Precedence (OP) website, which will go live in the next few days.
 
-##Part 1: Modern names, titles, and pronouns
+## Part 1: Modern names, titles, and pronouns
 
 In this revision, we have implemented the answers provided in the consent form that was launched last summer.
 
@@ -27,7 +27,7 @@ As an example of how your information could look, check out this page: <https://
 
 We encourage you to look up yourself and send in additional information using the new button "Submit your modern name, pronouns, and preferred title".
 
-##Part 2: Displaying heraldic devices
+## Part 2: Displaying heraldic devices
 
 A reminder also that we are accepting images of heraldic devices. Send an email to <posthorn@drachenwald.sca.org> with your device attached:
 
@@ -37,7 +37,7 @@ A reminder also that we are accepting images of heraldic devices. Send an email 
 4. Include a link to your OP entry in the email.
 5. An heraldic blazon (the text description) MUST be written in the email.
 
-###Important:
+### Important:
 
 - The image of your device should ONLY be of your device.
 - Do NOT send the complete submission file from when you registered your device.
