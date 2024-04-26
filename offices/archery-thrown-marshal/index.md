@@ -77,7 +77,6 @@ Use a form to submit a marshal's report for your region.
 
 # Social media
 
-* [Yahoogroup](https://groups.yahoo.com/neo/groups/DW_Archery/info)
 * [Facebook Archers of Drachenwald](https://www.facebook.com/groups/DW.Archer/)
 
 {% include officer-contacts.html %}
