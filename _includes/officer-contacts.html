@@ -4,9 +4,10 @@
 
 {% assign regnum=site.data.regnum-officers | where: "office", page.officer %}
 
-# <a name="contacts"></a><br>{{ office.longname }} Points of Contact
+<h1><a name="contacts"></a><br>{{ office.longname }} Points of Contact</h1>
 
-## Kingdom of Drachenwald
+<h2>Kingdom of Drachenwald</h2>
+
 <dl>
  <!-- Officer -->
  {% assign item = q | where: "group", "Drachenwald" | where: "role_type", "officer" | first %}
@@ -27,7 +28,9 @@
 	{% include officer-bio.html holder=item group=group longname=office.longname sidebar=false showbio=true %}
  {% endif %}
 </dl>
-## Regional Contacts
+
+<h2>Regional Contacts</h2>
+
 <dl> <!-- regional officers -->
  {% assign regional-groups = site.data.branches.data | where: "parent", "Drachenwald" %}
   {% for group in regional-groups %}
