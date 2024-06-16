@@ -50,7 +50,7 @@ Court report information is limited to those reports submitted via the court rep
 {% for item in pastevents %}
 	{% assign eventslug = item.slug %}
 	{% assign event-court-status = court-status | where: "event_slug", eventslug %}
- 	   <tr data-start-date={{ item.start-date | date: "%s" }}>
+ 	   <tr data-start-date="{{ item.start-date | date: "%s" }}">
 		<td>{{ item.start-date | date: "%-d %b %Y" }} </td>
 		<td>{{ item.host-branch }}</td>
 		<td>{{ item.event-name }}</td>
