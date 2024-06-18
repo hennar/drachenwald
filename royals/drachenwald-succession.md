@@ -106,3 +106,4 @@ A.S. is _Anno Societatis_, the Society year, which numbers from 1 May, 1966, the
 * LVIII 2022-2 Avery and Cornelia, AS LVII 
 * LIX 2023-1 Krake and Beatrix, AS LVII
 * LX 2023-2 Sven and Siobhán, AS LVIII
+* LXI 2024-1 Stigot and Lofnheiðr Halvarsdotter, AS LVIII
