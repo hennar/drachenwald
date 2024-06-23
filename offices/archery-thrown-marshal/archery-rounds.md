@@ -22,7 +22,7 @@ The [Inter-Kingdom Archery Competition](https://scores-sca.org/home/index.php?R=
 
 # Submitting scores
 To submit scores from official events or practices, fill the appropriate scoresheet from the list above with the scores from the round and then submit these to the captain general of archers using one of the methods below:
-* Use [the archery scores submission form](https://forms.gle/muW86cfJftRojgy29) to submit the scoresheets directly to the captain general. Note: to attach sheets to the form, you will need to have a google account.
+* Use [the archery scores submission form](https://forms.gle/PWesAAisQBrUjjBf7) to submit the scoresheets directly to the captain general. Note: to attach sheets to the form, you will need to have a google account.
 * Send an email to the captain general of archers, attaching the completed scoresheets
 
 # Royal Round
