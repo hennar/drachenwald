@@ -12,7 +12,7 @@ In order for the laws of our kingdom to help us function better, we need to revi
 
 The period for commenting on the following draft law proposals ended on 18 December 2020. Thank you for all the feedback we received!
 
-You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
+You can always reach the Law Council at <script>document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
 # 1. Proposal to change Drachenwald law 1 (December 3)
 

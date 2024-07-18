@@ -44,7 +44,7 @@ Compared to the July draft proposal, the following changes have been made:
 
 Once again, our most heartfelt thanks to all who commented and helped us either with suggestions, advice or encouragement. Please find the updated proposals below.
 
-As always, you can reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
+As always, you can reach the Law Council at <script>document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
 # 1 Proposal to change Drachenwald law 7.02.2.1 (August 17)
 
