@@ -30,7 +30,7 @@ excerpt: Roster of members
 ## {{ item.title }} {{ item.name }}
 {% unless item.region == "" %} **Region**: {{ item.region }} {% endunless %}
 
-{% unless item.primary_skills == "" %} **Primary artforms/Elevated for**: {{ item.primary_skills }} {% endunless %}
+{% unless item.primary_skills == "" %} **Primary artforms/Elevated for**: {{ item.primary-skills }} {% endunless %}
 
 {% unless item.dabbling == "" %} **Dabbles in**: {{ item.dabbling }} {% endunless %}
 

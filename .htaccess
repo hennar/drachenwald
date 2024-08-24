@@ -68,6 +68,9 @@ Redirect 301 /sites/ https://sca-drachenwald.gitlab.io/archive/sites/
 Redirect 301 /forms/ https://forms.drachenwald-sca.org/forms/
 Redirect 301 /forms https://forms.drachenwald-sca.org/forms/
 
+# Old This Is Drachenwald feed
+Redirect 301 /thisis/rss.xml https://dis.drachenwald.sca.org/data/thisisdrachenwald.rss
+
 # redirecting to the new book of ceremonies
 Redirect 301 /offices/herald/files/ceremonies.pdf https://ceremonies.drachenwald.sca.org/
 Redirect 301 /offices/herald/book-of-ceremonies/ https://ceremonies.drachenwald.sca.org/
