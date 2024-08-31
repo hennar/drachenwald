@@ -8,8 +8,8 @@ toc_label: Contents
 __Too long; didn't read:__ Current list of warranted marshals of archery and thrown weapons in Drachenwald. 
 {: .notice--primary}
 
-{% if site.data['archery-marshal'] %}
-  {% assign archery_marshal = site.data['archery-marshal'].data | sort: "name" %}
+{% if site.data['archery-marshals'] %}
+  {% assign archery_marshal = site.data['archery-marshals'].data | sort: "name" %}
 
 {% else %}
   {% assign archery_marshal = "" %}
@@ -54,4 +54,4 @@ __Too long; didn't read:__ Current list of warranted marshals of archery and thr
 </table>
 
 
-Data last updated: {{site.data['archery-marshal'].metadata.LastUpdate}}
+Data last updated: {{site.data['archery-marshals'].metadata.LastUpdate}}
