@@ -12,7 +12,7 @@ __Too long; didn't read:__ Current list of warranted marshals of archery and thr
   {% assign archery_marshal = site.data['archery-marshals'].data | sort: "name" %}
 
 {% else %}
-  {% assign company-ranks = "" %}
+  {% assign archery_marshal = "" %}
   The marshal list isn't available right now - please check back later.
 {% endif %}
 
