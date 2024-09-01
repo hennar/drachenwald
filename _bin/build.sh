@@ -3,8 +3,6 @@
 # Omitted:
 # "https://scripts.drachenwald.sca.org/json/groups-special.json"
 declare -a ScriptsDocuments=(
-  "archery-progression"
-  "archery-ranks"
   "fullcalendar"
 )
 
@@ -15,7 +13,6 @@ done
 
 declare -a DisDocuments=(
   "academyofdefense"
-  "archery-marshals"
   "branches"
   "chartered_peerage"
   "courtreports"
@@ -30,6 +27,9 @@ declare -a DisDocuments=(
   "roles"
   "thisisdrachenwald"
   "thisisdrachenwald_feedlist"
+  "archery_company"
+  "archery_progression"
+  "archery_marshal"
 )
 
 for word in "${DisDocuments[@]}"; do
