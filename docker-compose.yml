@@ -1,11 +1,12 @@
-version: 3
 services:
   jekyll:
-    image: ubuntu:latest
+    image: ubuntu:22.04
     ports:
       - "127.0.0.1:4000:4000"
     volumes:
       - .:/build
+    environment:
+      DEBIAN_FRONTEND: "noninteractive"
     stdin_open: true
     tty: true
     command: bash -c "apt-get update && apt-get install -y locales python3-pip ruby-full curl git && gem install bundler && cd /build && bundle install && pip3 install -r _thisisdrachenwald/requirements.txt && _bin/build-local.sh && bundle exec jekyll serve --watch --host 0.0.0.0"
