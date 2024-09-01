@@ -193,6 +193,15 @@ defaults:
         nav: "side-offices"
   -
     scope:
+      path: "peers/laurel"
+    values:
+      header:
+        overlay_image: "/images/header/laurel-header.jpg"
+        show_overlay_excerpt: true
+      sidebar:
+        nav: "side-offices"
+  -
+    scope:
       path: "chartergroups"
     values:
       sidebar:

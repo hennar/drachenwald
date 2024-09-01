@@ -50,7 +50,7 @@ Court report information is limited to those reports submitted via the court rep
 {% for item in pastevents %}
 	{% assign eventslug = item.slug %}
 	{% assign event-court-status = court-status | where: "event_slug", eventslug %}
- 	   <tr>
+ 	   <tr data-start-date="{{ item.start-date | date: "%s" }}">
 		<td>{{ item.start-date | date: "%-d %b %Y" }} </td>
 		<td>{{ item.host-branch }}</td>
 		<td>{{ item.event-name }}</td>
@@ -69,3 +69,16 @@ Court report information is limited to those reports submitted via the court rep
 <div style="text-align: center">
   <a href="{{ site.baseurl }}{% link events/calendar/index.md %}" class="btn btn--primary">View the calendar</a>
 </div>
+
+<script>
+(function() {
+  var rows = document.querySelectorAll("[data-start-date]")
+  var now = new Date()
+  Array.from(rows).forEach(function(r) {
+    var startDate = new Date(Number(r.dataset.startDate) * 1000)
+    if (startDate > now) {
+      r.hidden = true
+    }
+  })
+})()
+</script>

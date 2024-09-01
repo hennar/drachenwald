@@ -86,7 +86,7 @@ There is no single approach in Drachenwald to commenting on candidates who are p
 The order secretary keeps track of discussions, and adds comments to CVs. The secretary can delegate this role to members who volunteer to ‘look out’ for a candidate.
 
 ## Polls requested by the royalty
-Polling for all bestowed peers (Knights, Laurels, Pelicans, Order of Defense) is <a href="http://www.drachenwald.sca.org/content/drachenwald-seneschal#DW">outlined  in kingdom law</a> in section 9:
+Polling for all bestowed peers (Knights, Laurels, Pelicans, Order of Defense) is <a href="https://drachenwald.sca.org/offices/seneschal/#policy-and-resource-documents">outlined in kingdom law</a> in section 9:
 > 9.03 The Crown may elevate subjects to the Peerage by granting membership in one of the Orders conferring a Patent of Arms, after polling the members of the Order, and in accordance with these laws and the customs of Drachenwald.
 
 > 9.03.1 Any polling for a candidate must be sent to all members of the Order residing in Drachenwald. The members of the Order must be allowed at least thirty days to reply to the polling. If a member has not responded to any pollings in the last two years, or not responded to three consecutive pollings, then they shall be considered inactive and will no longer be sent pollings until they ask the secretary to be reinstated.

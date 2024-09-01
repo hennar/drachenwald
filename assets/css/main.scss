@@ -92,7 +92,20 @@ $type-size-8: 0.7em !default; // ~10px
   padding: 5px;
 }
 
+.margin-left-and-right-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
 
+.centered-and-max-800 {
+  @extend .margin-left-and-right-auto;
+  max-width: 800px;
+}
+
+.centered-and-max-600 {
+  @extend .margin-left-and-right-auto;
+  max-width: 600px;
+}
 
 .pagination {
   display: inline-block;
