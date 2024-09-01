@@ -17,11 +17,13 @@
     </span>
     {% endunless %}
   {% endif %}  
-  
+
+  <strong>{{ p.scaname }}</strong>
+
   {% if include.showbio %}
     {% unless p.bio == "" %}
       <p>
-      <strong>{{ p.scaname }}</strong>
+     <!-- <strong>{{ p.scaname }}</strong> -->
       {{ p.bio }}
       </p>
     {% endunless %}
@@ -34,7 +36,7 @@
     {% endunless %}
   {% endif %}
   
-  <strong>{{ p.scaname }}</strong>
+  
   {% unless p.mundanename == "" %}
   ({{ p.mundanename }})
   {% endunless %}
