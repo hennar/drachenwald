@@ -104,5 +104,6 @@ A.S. is _Anno Societatis_, the Society year, which numbers from 1 May, 1966, the
 * LIV 2020-1 Æríkr and Jacquelyna, AS LIV (The long reign, LIV, LV, LVI)
 * LVII 2022-1 Morales and Eila, AS LVI 
 * LVIII 2022-2 Avery and Cornelia, AS LVII 
-* LVIX 2023-1 Krake and Beatrix, AS LVII
-* LVX 2023-2 Sven and Siobhán, AS LVIII
+* LIX 2023-1 Krake and Beatrix, AS LVII
+* LX 2023-2 Sven and Siobhán, AS LVIII
+* LXI 2024-1 Stigot and Lofnheiðr Halvarsdotter, AS LVIII
