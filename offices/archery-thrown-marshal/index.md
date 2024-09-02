@@ -12,7 +12,7 @@ __Too long; didn't read:__ Marshal's handbooks, report forms, links to equipment
 
 # Drachenwald Company of Archers
 
-The Company is designed to promote archery within the Kingdom of Drachenwald. The company run KIngdom wide competitions and track the scores of archers all over the Kingdom so that they can be recognised as their skills improve. It has been a pleasant surprise to many an archer to read in announcements or hear in Court that they have achieved a new rank with the Company of Archers!
+The Company is designed to promote archery within the Kingdom of Drachenwald. The company run KIngdom wide competitions and track the scores of archers all over the Kingdom so that they can be recognised as their skills improve. It has been a pleasant surprise to many an archer to read in announcements or hear in Court that they have achieved a new rank with the Company of Archers! 
 
 They are also responsible for the education and training of archers, and for continuing historical research into archery methods, equipment and techinologies.
 
@@ -38,7 +38,7 @@ We take safety seriously. 'Authorisation' refers to a person who wants to become
 
 * [Drachenwald archery marshal's handbook]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-policy.md %}), explaining safety rules, equipment guidelines and how to run tournaments within Drachenwald. ([Signed PDF version]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald_target_archery_handbook_0.pdf %}))
 
-* [Drachenwald archery marshal authorisation form](https://goo.gl/forms/vjRyAuy7UfNwsuEa2), online format, for those who are teaching archery marshals
+* [Drachenwald archery marshal authorisation form](https://forms.gle/DJgevhkbv8vk5Ant7), online format, for those who are teaching archery marshals
 
 * [Drachenwald archery marshal authorisation form]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drach_archery_marshal_authorisation_form_0.pdf %}), PDF format for offline use, for those who are teaching archery marshals
 
