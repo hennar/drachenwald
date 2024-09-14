@@ -18,13 +18,13 @@ Your contribution is important during this process especially in items 2, 5, and
 7. Crown decides on the law proposal (accept/refuse).
 8. If accepted, the law will take effect after it has been published in Dragon's Tale and proclaimed at an event.
 
-When feedback on a particular proposal is requested, please use the provided web form. At any time you can reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
+When feedback on a particular proposal is requested, please use the provided web form. At any time you can reach the Law Council at <script>document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
 # Giving feedback on the draft law proposals
 
 The period for commenting on the following draft law proposals was 7-21 July 2020. Thank you for all the feedback we received!
 
-You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
+You can always reach the Law Council at <script>document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
 # 1 Proposal to change Drachenwald law 7.02.2.1 (July 7 draft)
 

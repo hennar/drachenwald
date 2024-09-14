@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 
 # Contact the Law Council
 
-You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>. Please send us suggestions for changes or updates to Drachenwald Law.
+You can always reach the Law Council at <script>document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>. Please send us suggestions for changes or updates to Drachenwald Law.
 
 # The Purpose of the Law Council
 
@@ -33,7 +33,7 @@ The Law Council works with the Kingdom Seneschal to assist in all phases of maki
 
 # Members
 
-Law Council membership is open to any Drachenwald SCA or Affiliate member. If interested in participating, send a message with your contact information to <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
+Law Council membership is open to any Drachenwald SCA or Affiliate member. If interested in participating, send a message with your contact information to <script>document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
 Council members are expected to participate in monthly online meetings, and research and work on Law change proposals. Outside the meetings the Council communicates mainly via email. The working language is English.
 

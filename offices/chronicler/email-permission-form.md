@@ -11,7 +11,7 @@ Copy the following text and paste it into your email. Replace the items in [squa
 
 Decide which permissions you are giving (the bulleted items listed) and delete any that aren't appropriate. 
 
-Email the completed form to <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,99,104,114,111,110,105,99,108,101,114,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,39,62,99,104,114,111,110,105,99,108,101,114,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,60,47,97,62));</script>
+Email the completed form to <script>document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,99,104,114,111,110,105,99,108,101,114,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,39,62,99,104,114,111,110,105,99,108,101,114,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,60,47,97,62));</script>
 
 Mark your email with "[DT] Permission for for (description of item)" in the subject.
 

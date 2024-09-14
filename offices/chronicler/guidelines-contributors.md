@@ -43,7 +43,7 @@ While it is useful to have a version of the article fully formatted, with images
 
 If sending a contribution with a lot of high-resolution images, please contact the Chronicler first to arrange.
 
-Send to <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,99,104,114,111,110,105,99,108,101,114,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,39,62,99,104,114,111,110,105,99,108,101,114,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,60,47,97,62));</script> with "[DT] article title" in the Subject.
+Send to <script>document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,99,104,114,111,110,105,99,108,101,114,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,39,62,99,104,114,111,110,105,99,108,101,114,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,60,47,97,62));</script> with "[DT] article title" in the Subject.
 
 The chronicler sometimes sends requests to email lists requesting contributions. ** Do not send your contribution by replying to that email. **
 

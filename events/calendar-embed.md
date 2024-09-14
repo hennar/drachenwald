@@ -22,8 +22,7 @@ If you run the website of an official group in Drachenwald, you're welcome to em
 
 {% highlight html %}
 <div id="calendar"></div>
-<script type="text/javascript"
-        src="https://scripts.drachenwald.sca.org/calendar/v3.0/calendar.js">
+<script src="https://scripts.drachenwald.sca.org/calendar/v3.0/calendar.js">
 </script>
 {% endhighlight %}
 
