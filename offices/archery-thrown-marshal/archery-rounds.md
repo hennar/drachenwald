@@ -13,9 +13,9 @@ __Too long; didn't read:__ Electronic score sheets, details of archery rounds, D
 The [archery round quick reference]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/archery-round-quick-reference.pdf %}) (PDF) provides a quick reminder of arrow counts, distances, and ranking scores for the common competition formats in Drachenwald.
 
 These spreadsheets help in recording and submitting competition scores. Print the sheets for use during competetions. The spreadsheets automatically calculate archers totals and ranking levels for each archer. 
-* [Royal round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/royal-round-score-sheet.xls %})(.xls file)
-* [Portsmouth round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/portsmouth-round-score-sheet.xls %})(.xls file)
-* [Drachenwald round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/Drachenwald_Round.xls %})(.xls file)
+* [Royal round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/royal-round-score-sheet.xlsx %})(.xlsx file)
+* [Portsmouth round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/portsmouth-round-score-sheet.xlsx %})(.xlsx file)
+* [Drachenwald round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/Drachenwald_Round.xlsx %})(.xlsx file)
 
 
 The [Inter-Kingdom Archery Competition](https://scores-sca.org/home/index.php?R=10) (external link) website provides details og the standardised competition recognised across the known world.
