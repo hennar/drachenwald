@@ -82,3 +82,27 @@ Elevated on 2020/02/22
 Elevated on 2021/05/15
 
 <img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
+
+#### Duncan Chaucer, Insulae Draconis
+
+Elevated on 2022/06/04
+
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
+
+#### Isabel Perigrinus, Klakavirki, Insulae Draconis
+
+Elevated on 2023/12/02
+
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
+
+#### Birgitti Lulli, Aarnimetsä 
+
+Elevated on 2024/02/17
+
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
+
+#### Dubhghall MacÉbhearáird , Aarnimetsä 
+
+Elevated on 2024/02/17
+
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
