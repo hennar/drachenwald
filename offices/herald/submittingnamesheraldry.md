@@ -91,6 +91,8 @@ The current version of the submission forms are Laurel v. 4.0; Drachenwald v.1.0
 * [Name form (for individuals)]({{ site.baseurl }}{% link offices/herald/files/name-individuals.pdf %})
 * [Device form (for branches and individuals)]({{ site.baseurl }}{% link offices/herald/files/device.pdf %})
 * [Badge form (for branches and individuals)]({{ site.baseurl }}{% link offices/herald/files/badge.pdf %})
+* [Blank badge]({{ site.baseurl }}{% link offices/herald/files/blank-badge.png %})
+* [Blank device]({{ site.baseurl }}{% link offices/herald/files/blank-device.png %})
 
 ## Digital submission notes
 * Please do not fill the PDF form in the browser! Instead, download the forms and fill them out in Adobe Acrobat Reader or an equivalent PDF program.
