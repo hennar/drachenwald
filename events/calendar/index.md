@@ -3,7 +3,13 @@ title: Events in Drachenwald
 redirect_from:
   - /events/
 ---
-[Past Events]({{ site.baseurl }}{% link events/pastevents.md %})
+
+The calendar contains our events. As there is a lot of activity in Drachenwald, we show here those events which have been sent to the Dragon's tale or which are organised as 'Drachenwald'. If you want to find more things to do, take a look at the other calendars:
+* [Nordmark (Sweden) Calendar](https://nordmark.org/kalendarium/nordmarks-kalender/#/) 
+* [Insulae Draconis (UK, Ireland, Iceland) Calendar](https://insulaedraconis.org/events/#/)
+* [Aarnimetsa (Finland) Calendar](https://www.aarnimetsa.org/tapahtumakalenteri/#/)
+* [Central (Germany, Belgium, Austria, Netherlands, Bulgaria, ...) Calendar](https://central.drachenwald.org/#/)
+* [Past Events]({{ site.baseurl }}{% link events/pastevents.md %})
 
 
 {% if jekyll.environment == "production" %}
@@ -18,6 +24,7 @@ redirect_from:
       legend="true"
       links="local"
       bidlinks="true"
+      localevents="none"
 ></div>
 <script type="text/javascript" src="https://sca-drachenwald.gitlab.io/events-calendar/calendar.js"></script>
 {% elsif jekyll.environment == "development" %}
@@ -25,6 +32,7 @@ redirect_from:
       legend="true"
       links="local"
       bidlinks="true"
+      localevents="none"
 ></div>
 <script type="text/javascript" src="http://127.0.0.1:8080/calendar.js"></script>
 {% endif %}
