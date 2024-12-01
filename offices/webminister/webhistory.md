@@ -4,9 +4,13 @@ subtitle: Digital Archeology for the win
 ---
 
 We have been at this a long time. Here are historical milestones.
+# 2000
+* A wild website appeared at [HTTP://www.drachenwald.org](https://web.archive.org/web/20000302133344/http://www.drachenwald.org:80/)
+* Lord Harkon is webminister
 
 # 2001
 * A website at appeared at [http://www.drachenwald.sca.org](https://web.archive.org/web/20010228110603/http://www.drachenwald.sca.org/) some time before the end of February 2001.
+* By September [HTTP://www.drachenwald.org](https://web.archive.org/web/20010925020911/http://www.drachenwald.org:80/) has disappeared again
 * By October, there's [a calendar](https://web.archive.org/web/20011021032829/http://www.drachenwald.sca.org:80/calendar.htm). It even contains reporting deadlines, that sounds really useful!
 * Web Minister: Rhys Terafan Greydragon 
 
@@ -47,6 +51,8 @@ We have been at this a long time. Here are historical milestones.
 * And [a new webminister: Marcus von Stormam](https://web.archive.org/web/20061205211405/http://www.drachenwald.sca.org/)
 * [Central, Eastern Baltic, Scandinavia and Southern regions for martial activities](https://web.archive.org/web/20061129232732/http://www.drachenwald.sca.org/Marshal/contacts.php)
 * Dedicated PHP starts to show up
+* Spammers took over [HTTP://www.drachenwald.org/](https://web.archive.org/web/20061007134838/http://www.drachenwald.org:80/)
+  
 
 # 2007
 * A listing of [Articles of interest to Drachenwald](https://web.archive.org/web/20070107004500/http://www.drachenwald.sca.org/Articles/) shows up
@@ -70,7 +76,12 @@ We have been at this a long time. Here are historical milestones.
 * The phpbb forum disappears from the frontpage
 * Raphe Cuthbert becomes webminister and has a team of Web Elves
 * Seeing the first of the officers bios appear
+* Somebody Chinese took over [HTTP://www.drachenwald.org](https://web.archive.org/web/20110413085010/http://www.drachenwald.org/)
 
+# 2012
+* [http://www.drachenwald.org/](https://web.archive.org/web/20120524022419/http://www.drachenwald.org/) is for sale
+* [http://www.drachenwald.org/](https://web.archive.org/web/20141219193715/http://www.drachenwald.org/) has reappeared with some weird spam at the bottom?
+  
 # 2013
 * Drachenwald 20 Year Anniversary Celebration [A celebration of the kingdom with the castles](https://web.archive.org/web/20130814210621/http://dw20year.sched.org/)
 * [The Seneschal was posting their own updates!](https://web.archive.org/web/20130705130346/http://www.drachenwald.sca.org/index_new.php)
