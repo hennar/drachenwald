@@ -10,7 +10,7 @@ We have been at this a long time. Here are historical milestones.
 
 # 2001
 * A website at appeared at [http://www.drachenwald.sca.org](https://web.archive.org/web/20010228110603/http://www.drachenwald.sca.org/) some time before the end of February 2001.
-* By september [HTTP://www.drachenwald.org[(https://web.archive.org/web/20010925020911/http://www.drachenwald.org:80/) has dissapeared again
+* By September [HTTP://www.drachenwald.org](https://web.archive.org/web/20010925020911/http://www.drachenwald.org:80/) has disappeared again
 * By October, there's [a calendar](https://web.archive.org/web/20011021032829/http://www.drachenwald.sca.org:80/calendar.htm). It even contains reporting deadlines, that sounds really useful!
 * Web Minister: Rhys Terafan Greydragon 
 
